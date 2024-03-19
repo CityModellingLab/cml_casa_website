@@ -2,11 +2,12 @@
 title: "Who are we?"
 listing: 
   contents: profiles
-  sort: "title desc"
+  sort: "title asc"
   type: grid
+  grid-item-border: false
   categories: false
   sort-ui: false
   filter-ui: false
 page-layout: full
-title-block-banner: true
+title-block-banner: false
 ---
