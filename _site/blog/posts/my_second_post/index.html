@@ -8,7 +8,7 @@
 
 <meta name="author" content="Adam Dennett">
 <meta name="dcterms.date" content="2024-03-19">
-<meta name="description" content="Post description">
+<meta name="description" content="Short guide for Adding a new Blog Post">
 
 <title>CASA / Arup City Modelling Lab - My Post</title>
 <style>
@@ -151,7 +151,7 @@ ul.task-list li input[type="checkbox"] {
 
 <div>
   <div class="description">
-    Post description
+    Short guide for Adding a new Blog Post
   </div>
 </div>
 
@@ -178,8 +178,23 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>Test Content!</p>
-<p><img src="Ad40_1.PNG" class="img-fluid"></p>
+<p>Adding a new blog post is fairly easy.</p>
+<ol type="1">
+<li>Clone this whole github repo onto your machine - but create a new branch so you don’t mess up the main branch. I may need to do something on github to add you as a user.</li>
+<li>Create a new folder in the posts directory</li>
+<li>Save a new index.qmd file in that folder</li>
+<li>Fill the new index.qmd file with whatever you want to blog about.</li>
+<li>in the yaml header at the top, include a few bits of info:</li>
+</ol>
+<p>title: “Your title” description: “your description” author: “Your name” date: today (if you want to give your post today’s date draft: false (true will not post it, false will)</p>
+<ol start="5" type="1">
+<li>If you want to include any images, add them into this folder too:</li>
+</ol>
+<p><img src="sonic.png" class="img-fluid"></p>
+<ol start="6" type="1">
+<li>Save your .qmd file. Commit and push it back up to github.</li>
+<li>Might need to then make a merge request to merge back into the main branch - which will then render to the world.</li>
+</ol>
 
 
 

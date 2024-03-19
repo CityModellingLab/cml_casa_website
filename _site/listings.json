@@ -2,7 +2,15 @@
   {
     "listing": "/blog/index.html",
     "items": [
-      "/blog/posts/my_first_post/index.html"
+      "/blog/posts/my_first_post/index.html",
+      "/blog/posts/my_second_post/index.html"
+    ]
+  },
+  {
+    "listing": "/people/index.html",
+    "items": [
+      "/people/profiles/gerry/index.html",
+      "/people/profiles/adam/index.html"
     ]
   }
 ]

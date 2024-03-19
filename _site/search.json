@@ -25,7 +25,7 @@
     "href": "blog/index.html",
     "title": "Blog",
     "section": "",
-    "text": "My Post\n\n\nPost description\n\n\n\nAdam Dennett\n\n\nMar 19, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "My Post\n\n\nPost description\n\n\n\nAdam Dennett\n\n\nMar 19, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy Post\n\n\nShort guide for Adding a new Blog Post\n\n\n\nAdam Dennett\n\n\nMar 19, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about/about.html",
@@ -54,5 +54,40 @@
     "title": "My Post",
     "section": "",
     "text": "Test Content!"
+  },
+  {
+    "objectID": "blog/posts/my_second_post/index.html",
+    "href": "blog/posts/my_second_post/index.html",
+    "title": "My Post",
+    "section": "",
+    "text": "Adding a new blog post is fairly easy.\n\nClone this whole github repo onto your machine - but create a new branch so you don’t mess up the main branch. I may need to do something on github to add you as a user.\nCreate a new folder in the posts directory\nSave a new index.qmd file in that folder\nFill the new index.qmd file with whatever you want to blog about.\nin the yaml header at the top, include a few bits of info:\n\ntitle: “Your title” description: “your description” author: “Your name” date: today (if you want to give your post today’s date draft: false (true will not post it, false will)\n\nIf you want to include any images, add them into this folder too:\n\n\n\nSave your .qmd file. Commit and push it back up to github.\nMight need to then make a merge request to merge back into the main branch - which will then render to the world."
+  },
+  {
+    "objectID": "people/index.html",
+    "href": "people/index.html",
+    "title": "Who are we?",
+    "section": "",
+    "text": "Gerry Casey\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAdam Dennett\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people/profiles/adam/index.html",
+    "href": "people/profiles/adam/index.html",
+    "title": "Adam Dennett",
+    "section": "",
+    "text": "Headline fact"
+  },
+  {
+    "objectID": "people/profiles/adam/index.html#education",
+    "href": "people/profiles/adam/index.html#education",
+    "title": "Adam Dennett",
+    "section": "Education",
+    "text": "Education\nUniversity of Life innit"
+  },
+  {
+    "objectID": "people/profiles/adam/index.html#experience",
+    "href": "people/profiles/adam/index.html#experience",
+    "title": "Adam Dennett",
+    "section": "Experience",
+    "text": "Experience\nBeen around and about"
   }
 ]

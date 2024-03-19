@@ -1,0 +1,24 @@
+---
+title: "My Post"
+description: "Short guide for Adding a new Blog Post"
+author: "Adam Dennett"
+date: today
+draft: false
+---
+
+Adding a new blog post is fairly easy.
+
+1.  Clone this whole github repo onto your machine - but create a new branch so you don't mess up the main branch. I may need to do something on github to add you as a user.
+2.  Create a new folder in the posts directory
+3.  Save a new index.qmd file in that folder
+4.  Fill the new index.qmd file with whatever you want to blog about.
+5.  in the yaml header at the top, include a few bits of info:
+
+title: "Your title" description: "your description" author: "Your name" date: today (if you want to give your post today's date draft: false (true will not post it, false will)
+
+5.  If you want to include any images, add them into this folder too:
+
+![](sonic.png)
+
+6.  Save your .qmd file. Commit and push it back up to github.
+7.  Might need to then make a merge request to merge back into the main branch - which will then render to the world.
