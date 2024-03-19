@@ -1,5 +1,5 @@
 ---
-title: "Adam Dennett"
+title: "Maria Wood"
 format:
   html:
     page-layout: article
@@ -8,14 +8,10 @@ format:
     css: styles.css 
 ---
 
-![](MeCrop.jpg){width="50%"}
+![](arbre.jpg){width="50%"}
 
 Headline fact
 
 ## Education
 
-University of Life innit
-
 ## Experience
-
-Been around and about

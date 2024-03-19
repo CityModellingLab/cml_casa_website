@@ -1,1 +1,58 @@
 /* css styles */
+
+/*-- grid listing --*/
+
+.quarto-grid-item {
+  border: none;
+  background-color: #f0eeeb;
+}
+
+.quarto-grid-item.borderless {
+  border: none;
+  background-color: #f0eeeb;
+}
+
+.quarto-grid-item div.post-contents {
+  padding: 0;
+}
+
+.quarto-grid-item .card-title {
+  margin-top: 0.5em;
+  margin-bottom: 0.75em;
+  color: black;
+}
+
+.card-body {
+  color: black;
+}
+
+.quarto-grid-item .listing-categories {
+  display: flex;
+  flex-wrap: wrap;
+  padding-bottom: .5em;
+}
+
+.quarto-grid-item .listing-categories .listing-category {
+  color: #939bc9;
+  border: solid 1px #939bc9 !important;
+  font-weight: 400;
+  font-size: .75em;
+}
+
+.quarto-grid-item .card-attribution.justify {
+  justify-content: left;
+}
+
+.quarto-grid-item .card-attribution {
+  font-weight: 300;
+  color: black;
+  flex-grow: 10;
+  align-items: flex-end;
+}
+
+.quarto-grid-item img.thumbnail-image {
+  object-fit: cover;
+  height: 188px !important;
+}
+
+

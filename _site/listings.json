@@ -9,8 +9,12 @@
   {
     "listing": "/people/index.html",
     "items": [
+      "/people/profiles/adam/index.html",
+      "/people/profiles/claude/index.html",
+      "/people/profiles/esra/index.html",
       "/people/profiles/gerry/index.html",
-      "/people/profiles/adam/index.html"
+      "/people/profiles/maria/index.html",
+      "/people/profiles/tom/index.html"
     ]
   }
 ]

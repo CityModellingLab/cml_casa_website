@@ -67,7 +67,7 @@
     "href": "people/index.html",
     "title": "Who are we?",
     "section": "",
-    "text": "Gerry Casey\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAdam Dennett\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Adam Dennett\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClaude Lynch\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEsra Suel\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\nGerry Casey\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaria Wood\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTom Murat\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people/profiles/adam/index.html",
@@ -89,5 +89,68 @@
     "title": "Adam Dennett",
     "section": "Experience",
     "text": "Experience\nBeen around and about"
+  },
+  {
+    "objectID": "people/profiles/esra/index.html",
+    "href": "people/profiles/esra/index.html",
+    "title": "Esra Suel",
+    "section": "",
+    "text": "Headline fact"
+  },
+  {
+    "objectID": "people/profiles/esra/index.html#education",
+    "href": "people/profiles/esra/index.html#education",
+    "title": "Esra Suel",
+    "section": "Education",
+    "text": "Education"
+  },
+  {
+    "objectID": "people/profiles/esra/index.html#experience",
+    "href": "people/profiles/esra/index.html#experience",
+    "title": "Esra Suel",
+    "section": "Experience",
+    "text": "Experience"
+  },
+  {
+    "objectID": "people/profiles/maria/index.html",
+    "href": "people/profiles/maria/index.html",
+    "title": "Maria Wood",
+    "section": "",
+    "text": "Headline fact"
+  },
+  {
+    "objectID": "people/profiles/maria/index.html#education",
+    "href": "people/profiles/maria/index.html#education",
+    "title": "Maria Wood",
+    "section": "Education",
+    "text": "Education"
+  },
+  {
+    "objectID": "people/profiles/maria/index.html#experience",
+    "href": "people/profiles/maria/index.html#experience",
+    "title": "Maria Wood",
+    "section": "Experience",
+    "text": "Experience"
+  },
+  {
+    "objectID": "people/profiles/tom/index.html",
+    "href": "people/profiles/tom/index.html",
+    "title": "Tom Murat",
+    "section": "",
+    "text": "Headline fact"
+  },
+  {
+    "objectID": "people/profiles/tom/index.html#education",
+    "href": "people/profiles/tom/index.html#education",
+    "title": "Tom Murat",
+    "section": "Education",
+    "text": "Education"
+  },
+  {
+    "objectID": "people/profiles/tom/index.html#experience",
+    "href": "people/profiles/tom/index.html#experience",
+    "title": "Tom Murat",
+    "section": "Experience",
+    "text": "Experience"
   }
 ]

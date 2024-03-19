@@ -2,6 +2,7 @@
 title: "Gerry Casey"
 about:
   template: trestles
+  image: arbre.jpg
   links:
     - icon: twitter
       text: twitter
