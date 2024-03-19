@@ -1,11 +1,5 @@
 ---
-title: "cml_casa_website"
+title: "Welcome to the CASA / Arup City Modelling Lab"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+![](images/cml_logo.jpeg)

@@ -7,7 +7,7 @@ toc: false
 title-block-banner: true
 ---
 
-## The vision 
+## The vision
 
 Our vision is that data driven insights are readily available to decision makers in the city realm who are facing existential challenges and problems relating to, in particular, climate change and social inequality. In 5 years these practitioners will be able to assess and appraise a wide range of possible interventions, getting insights on the benefits/disbenefits of a given intervention as they go. The tooling and analysis informs and shapes their decision making in a way that leverages the inputs of a wide set of stakeholders and permits truly participatory decision making in shared urban spaces.. We want to use these methods and data to break down the silos in policy making, formally recognising the interconnected nature of systems in decision making.
 
@@ -15,9 +15,8 @@ Our vision consists of two related but distinct missions:
 
 1.  Sustainable and equitable shared urban environments -- we propose jointly exploring future needs through the lens of the outcomes we wish to achieve, enabling more sustainable and equitable shared economies. This requires codifying and defining meaningful metrics beyond, for example, traditional transportation value definitions such as agglomeration benefits or journey time savings. This is viewing larger urban changes through the lens of a wider set of outcomes. 
 
-```{=html}
 <!-- -->
-```
+
 2.  Human centric modelling  - We suggest we do this by continuing to explore the use of bottom up complex modelling approaches such as agent and activity based methodologies, leveraging cloud computing and advances in synthetic populations. This is key is putting the individual at the heart of what we do. 
 
 Our mission (i.e. your purpose, why you exist and what you hope to achieve. Your values and work)
@@ -28,10 +27,10 @@ Arup is a mission orientated organisation who deliver insights and solutions for
 
 The joint CASA Arup City Modelling Lab exists to bridge the gap between practice and theory, and projects and policies. There is cutting edge theory (and data) that can enable policy makers to better deliver projects, but often the theory is immature, limited in transferability and has no tooling for practical implementation. 
 
-There\'s a diversity of prioritisation within urban policy making and resource availability that means that projects delivered in for one city government which benefit that city frequently do not find implementation elsewhere. but could be readily applicable to another but commercial 
+There's a diversity of prioritisation within urban policy making and resource availability that means that projects delivered in for one city government which benefit that city frequently do not find implementation elsewhere. but could be readily applicable to another but commercial 
 
 ## Our approach
 
-Arup\'s client delivery focus means that while rapid solutions are developed, innovations with potential beyond the scope of the original projects rarely taken further or developed for alternative contexts. This means that the wider benefits may not be realised and this represents a massive missed opportunity. Conversely the research process in CASA can be much longer in gestation with the development of theories and tools that have commercial relevance but a longer run-way to delivery and often no immediate commercial outlet. 
+Arup's client delivery focus means that while rapid solutions are developed, innovations with potential beyond the scope of the original projects rarely taken further or developed for alternative contexts. This means that the wider benefits may not be realised and this represents a massive missed opportunity. Conversely the research process in CASA can be much longer in gestation with the development of theories and tools that have commercial relevance but a longer run-way to delivery and often no immediate commercial outlet. 
 
 The CASA / Arup Lab will address the shortcomings of these different approaches to urban problem solving through facilitating the deeper development of rapid commercial solutions and providing an industry/commercial outlet for new tools, methods and theories developed in an academic context. 

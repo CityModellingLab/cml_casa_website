@@ -2,18 +2,42 @@ project:
   type: website
 
 website:
-  title: "cml_casa_website"
+  title: "CASA / Arup City Modelling Lab"
+  image: images/cml_logo.jpeg
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+    background: "#f0eeeb"
+    logo: images/casa.png
+    right:
+      - href: about/about.qmd
+        text: About
+      - href: people/index.qmd
+        text: People
+      - href: projects/index.qmd
+        text: Projects
+      - href: blog/index.qmd
+        text: Blog
+      - icon: person-circle
+        href: https://www.ucl.ac.uk/bartlett/casa/partnerships/casa-arup-city-modelling-lab
+      - icon: x-twitter
+        href: https://twitter.com/adam_dennett
+      - icon: github
+        menu:
+          - text: Source Code
+            url:  https://github.com/adamdennett/cml_casa_website
+          - text: Report a Bug
+            url:  https://github.com/adamdennett/cml_casa_website/issues
+  repo-url: https://github.com/adamdennett/cml_casa_website
+  repo-actions: [source, issue]
 
 format:
   html:
-    theme: cosmo
+    theme: lux
     css: styles.css
     toc: true
+    grid:
+      sidebar-width: 0px
+      body-width: 1000px
+      margin-width: 250px
 
 editor: visual
 
