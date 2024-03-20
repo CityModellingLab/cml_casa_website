@@ -10,7 +10,7 @@ format:
 
 ![](arbre.jpg){width="50%"}
 
-Headline fact
+Headline act
 
 ## Education
 
