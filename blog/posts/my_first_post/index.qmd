@@ -6,6 +6,10 @@ date: today
 draft: false
 ---
 
-things aren't deploying and I don't know why. 
+![](Ad40_1.PNG)
 
-Oh wait, I do I think - need to render locally first
+things aren't deploying and I don't know why.
+
+Oh wait, I do I think - need to render locally first.
+
+Hmm Still not working

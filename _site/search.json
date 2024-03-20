@@ -25,7 +25,7 @@
     "href": "blog/index.html",
     "title": "Blog",
     "section": "",
-    "text": "My Post\n\n\nPost description\n\n\n\nAdam Dennett\n\n\nMar 20, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nMy Post\n\n\nShort guide for Adding a new Blog Post\n\n\n\nAdam Dennett\n\n\nMar 20, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "My Post\n\n\nPost description\n\n\n\nAdam Dennett\n\n\nMar 20, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nMy Post\n\n\nShort guide for Adding a new Blog Post\n\n\n\nAdam Dennett\n\n\nMar 20, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nThird test\n\n\nPost description\n\n\n\nAdam Dennett\n\n\nMar 20, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about/about.html",
@@ -53,7 +53,7 @@
     "href": "blog/posts/my_first_post/index.html",
     "title": "My Post",
     "section": "",
-    "text": "things aren’t deploying and I don’t know why.\nOh wait, I do I think - need to render locally first"
+    "text": "things aren’t deploying and I don’t know why.\nOh wait, I do I think - need to render locally first.\nHmm Still not working"
   },
   {
     "objectID": "blog/posts/my_second_post/index.html",
@@ -236,5 +236,12 @@
     "title": "Proj",
     "section": "Aims and Objectives",
     "text": "Aims and Objectives"
+  },
+  {
+    "objectID": "blog/posts/post_3/index.html",
+    "href": "blog/posts/post_3/index.html",
+    "title": "Third test",
+    "section": "",
+    "text": "Why are you not rendering?"
   }
 ]
