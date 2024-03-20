@@ -1,5 +1,5 @@
 ---
-title: "Welcome to the CASA / Arup City Modelling Lab"
+title: "Welcome to the CASA / Arup City Modelling Lab "
 ---
 
 ![](images/cml_logo.jpeg)
