@@ -1,5 +1,5 @@
 ---
-title: "Gerry Casey"
+title: "Proj"
 format:
   html:
     page-layout: article
@@ -8,10 +8,11 @@ format:
     css: styles.css 
 ---
 
-![](arbre.jpg){width="50%"}
+Project Title
 
-Headline fact
+## Funder
 
-## Education
 
-## Experience
+
+## Aims and Objectives
+

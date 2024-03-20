@@ -16,5 +16,11 @@
       "/people/profiles/maria/index.html",
       "/people/profiles/tom/index.html"
     ]
+  },
+  {
+    "listing": "/projects/index.html",
+    "items": [
+      "/projects/proj/proj1/index.html"
+    ]
   }
 ]
