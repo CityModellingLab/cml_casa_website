@@ -53,7 +53,7 @@
     "href": "blog/posts/my_first_post/index.html",
     "title": "My Post",
     "section": "",
-    "text": "Test Content!"
+    "text": "things aren’t deploying and I don’t know why.\nOh wait, I do I think - need to render locally first"
   },
   {
     "objectID": "blog/posts/my_second_post/index.html",
@@ -116,7 +116,7 @@
     "href": "people/profiles/maria/index.html",
     "title": "Maria Wood",
     "section": "",
-    "text": "Headline fact"
+    "text": "Headline act"
   },
   {
     "objectID": "people/profiles/maria/index.html#education",
