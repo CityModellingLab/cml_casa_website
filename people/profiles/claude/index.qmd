@@ -8,10 +8,15 @@ format:
     css: styles.css 
 ---
 
-![](claude.jpg){width="100%"}
+![](claude.jpg){width="50%"}
 
-Headline fact
+**Fact File**: After undertaking a master's in Critical Theory,.
 
-## Education
-
-## Experience
+|                       |     |
+|-----------------------|-----|
+| Good Listener         | 3   |
+| Personal Hygeine      | 15  |
+| Intelligence Quotient | 3   |
+| Shamelessness         | 70  |
+| Huggability           | 1   |
+| Coding Chops          | 2   |
