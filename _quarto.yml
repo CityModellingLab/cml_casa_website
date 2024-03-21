@@ -18,7 +18,7 @@ website:
         text: Blog
       - icon: person-circle
         href: https://www.ucl.ac.uk/bartlett/casa/partnerships/casa-arup-city-modelling-lab
-      - icon: x-twitter
+      - text: "{{< iconify bi twitter-x >}}"
         href: https://twitter.com/CASAUCL
       - icon: github
         menu:
