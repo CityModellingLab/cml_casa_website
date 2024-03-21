@@ -15,8 +15,8 @@ format:
 |                       |     |
 |-----------------------|-----|
 | Good Listener         | 3   |
-| Personal Hygeine      | 15  |
-| Intelligence Quotient | 144 |
+| Personal Hygiene      | 15  |
+| Bench Press           | 0   |
 | Shamelessness         | 70  |
 | Huggability           | 1   |
 | Coding Chops          | 2   |
