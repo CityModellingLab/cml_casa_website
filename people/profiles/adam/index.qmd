@@ -8,7 +8,7 @@ format:
     css: styles.css 
 ---
 
-![](MeCrop.jpg){width="50%"}
+![](adam.jpg){width="100%"}
 
 Headline fact
 
