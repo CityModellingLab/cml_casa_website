@@ -8,14 +8,15 @@ format:
     css: styles.css 
 ---
 
-![](adam.jpg){width="100%"}
+![](adam.jpg){width="50%"}
 
-Headline fact
+**Fact File**: Since his CASA debut in 2010, Adam has risen to the rank of Professor of Urban Analytics. Despite a fondness for body art and drum and bass music, he still manages to hold it down on the mapping and modelling front.
 
-## Education
-
-University of Life innit
-
-## Experience
-
-Been around and about
+|                       |     |
+|-----------------------|-----|
+| Good Listener         | 5   |
+| Personal Hygine       | 17  |
+| Intelligence Quotient | 102 |
+| Shamelessness         | 28  |
+| Huggability           | 7   |
+| Coding Chops          | 8   |
