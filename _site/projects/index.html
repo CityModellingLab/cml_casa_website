@@ -41,6 +41,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-contrib/iconify-1.0.7/iconify-icon.min.js"></script>
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,9 +71,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-description"],
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -135,10 +136,9 @@ ul.task-list li input[type="checkbox"] {
 </i> 
  <span class="menu-text"></span></a>
   </li>  
-  <li class="nav-item compact">
-    <a class="nav-link" href="https://twitter.com/CASAUCL"><i class="bi bi-x-twitter" role="img">
-</i> 
- <span class="menu-text"></span></a>
+  <li class="nav-item">
+    <a class="nav-link" href="https://twitter.com/CASAUCL">
+ <span class="menu-text"><iconify-icon inline="" icon="bi:twitter-x"></iconify-icon></span></a>
   </li>  
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-bi-github" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -196,9 +196,12 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-2">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1711016383166" data-listing-reading-time-sort="0.025">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1711022346826" data-listing-reading-time-sort="0.025">
 <a href="../projects/proj/proj1/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left borderless">
+<p class="card-img-top">
+<img src="../projects/proj/proj1/placeholder.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Proj

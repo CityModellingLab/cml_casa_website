@@ -10,9 +10,8 @@ format:
 
 Project Title
 
+![](placeholder.jpg)
+
 ## Funder
 
-
-
 ## Aims and Objectives
-
