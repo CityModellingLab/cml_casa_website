@@ -12,11 +12,11 @@ format:
 
 **Fact File**: Since his CASA debut in 2010, Adam has risen to the rank of Professor of Urban Analytics. Despite a fondness for body art and drum and bass music, he still manages to hold it down on the mapping and modelling front.
 
-|                       |     |
-|-----------------------|-----|
-| Good Listener         | 5   |
-| Personal Hygine       | 17  |
-| Intelligence Quotient | 102 |
-| Shamelessness         | 28  |
-| Huggability           | 7   |
-| Coding Chops          | 8   |
+|                                    |     |
+|------------------------------------|-----|
+| Good Listener                      | 5   |
+| Personal Hygine                    | 17  |
+| Advanced Spatial Analysis Quotient | 102 |
+| Shamelessness                      | 28  |
+| Huggability                        | 7   |
+| Coding Chops                       | 8   |
