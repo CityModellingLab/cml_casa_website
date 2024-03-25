@@ -7,6 +7,7 @@ website:
   navbar:
     background: "#f0eeeb"
     logo: images/CML_logo_CL.png
+    pinned: true
     right:
       - href: about/about.qmd
         text: About
@@ -28,6 +29,11 @@ website:
             url:  https://github.com/adamdennett/cml_casa_website/issues
   repo-url: https://github.com/adamdennett/cml_casa_website
   repo-actions: [source, issue]
+  page-footer: 
+    left: |
+      [Copyright 2024, UCL CASA](https://www.ucl.ac.uk/bartlett/casa/)
+    right: |
+      [![](/images/University_College_London_logo.svg){fig-alt="UCL" width=150px}](https://ucl.ac.uk/)
 
 format:
   html:
