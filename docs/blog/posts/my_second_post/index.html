@@ -6,8 +6,11 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Adam Dennett">
+<meta name="dcterms.date" content="2024-03-25">
+<meta name="description" content="Short guide for Adding a new Blog Post">
 
-<title>CASA / Arup City Modelling Lab - Maria Wood</title>
+<title>CASA / Arup City Modelling Lab - My Post</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -62,10 +65,9 @@ ul.task-list li input[type="checkbox"] {
 
 
 <link rel="stylesheet" href="../../../styles.css">
-<link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -136,20 +138,39 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Maria Wood</h1>
+<h1 class="title">My Post</h1>
 </div>
 
+<div>
+  <div class="description">
+    Short guide for Adding a new Blog Post
+  </div>
+</div>
 
 
 <div class="quarto-title-meta">
 
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Adam Dennett </p>
+          </div>
+  </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">March 25, 2024</p>
+    </div>
+  </div>
   
     
   </div>
@@ -157,16 +178,25 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p><img src="maria2.jpg" class="img-fluid" style="width:50.0%"></p>
-<p>Headline act</p>
-<section id="education" class="level2">
-<h2 class="anchored" data-anchor-id="education">Education</h2>
-</section>
-<section id="experience" class="level2">
-<h2 class="anchored" data-anchor-id="experience">Experience</h2>
+<p>Adding a new blog post is fairly easy.</p>
+<ol type="1">
+<li>Clone this whole github repo onto your machine - but create a new branch so you don’t mess up the main branch. I may need to do something on github to add you as a user.</li>
+<li>Create a new folder in the posts directory</li>
+<li>Save a new index.qmd file in that folder</li>
+<li>Fill the new index.qmd file with whatever you want to blog about.</li>
+<li>in the yaml header at the top, include a few bits of info:</li>
+</ol>
+<p>title: “Your title” description: “your description” author: “Your name” date: today (if you want to give your post today’s date draft: false (true will not post it, false will)</p>
+<ol start="5" type="1">
+<li>If you want to include any images, add them into this folder too:</li>
+</ol>
+<p><img src="sonic.png" class="img-fluid"></p>
+<ol start="6" type="1">
+<li>Save your .qmd file. Commit and push it back up to github.</li>
+<li>Might need to then make a merge request to merge back into the main branch - which will then render to the world.</li>
+</ol>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

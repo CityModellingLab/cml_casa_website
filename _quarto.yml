@@ -1,12 +1,12 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "CASA / Arup City Modelling Lab"
-  image: images/cml_logo.jpeg
   navbar:
     background: "#f0eeeb"
-    logo: images/casa.png
+    logo: images/CML_logo_CL.png
     right:
       - href: about/about.qmd
         text: About
