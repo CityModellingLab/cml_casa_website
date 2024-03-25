@@ -1,0 +1,27 @@
+[
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/posts/my_first_post/index.html",
+      "/blog/posts/my_second_post/index.html",
+      "/blog/posts/post_3/index.html"
+    ]
+  },
+  {
+    "listing": "/people/index.html",
+    "items": [
+      "/people/profiles/adam/index.html",
+      "/people/profiles/claude/index.html",
+      "/people/profiles/esra/index.html",
+      "/people/profiles/gerry/index.html",
+      "/people/profiles/maria/index.html",
+      "/people/profiles/tom/index.html"
+    ]
+  },
+  {
+    "listing": "/projects/index.html",
+    "items": [
+      "/projects/proj/proj1/index.html"
+    ]
+  }
+]
