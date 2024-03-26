@@ -8,9 +8,18 @@ format:
     css: styles.css 
 ---
 
-![](maria2.jpg){width="50%"}
+![](maria.jpg){width="50%"}
 
-Headline act
+**Fact File**: Maria is a first-year PhD student at CASA, focusing on equity in transport electrification. She loves trying to fix everything that's wrong with the world but so far has only managed to patch the hole in her dungarees. Great taste in music, poor taste in lunch spots.
+
+|                                    |                            |
+|------------------------------------|----------------------------|
+| Good Listener                      | 100                        |
+| Personal Hygeine                   | 100                        |
+| Advanced Spatial Analysis Quotient | what does this mean?? zero |
+| Shamelessness                      | 4000                       |
+| Huggability                        | yes please                 |
+| Coding Chops                       | -9                         |
 
 ## Education
 
