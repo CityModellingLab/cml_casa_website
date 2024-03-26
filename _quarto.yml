@@ -30,6 +30,7 @@ website:
   repo-url: https://github.com/adamdennett/cml_casa_website
   repo-actions: [source, issue]
   page-footer: 
+    background: "#f0eeeb"
     left: |
       [Copyright 2024, UCL CASA](https://www.ucl.ac.uk/bartlett/casa/)
     right: |
