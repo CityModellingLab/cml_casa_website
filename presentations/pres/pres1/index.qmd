@@ -1,0 +1,13 @@
+---
+title: "Presentation 1"
+format:
+  html:
+    page-layout: article
+    toc: false
+    html-math-method: katex
+    css: styles.css 
+---
+
+Presentation
+
+![](placeholder.jpeg)

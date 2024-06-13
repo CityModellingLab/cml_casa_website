@@ -1,0 +1,15 @@
+---
+title: "Some things we've talked about"
+listing: 
+  contents: pres
+  sort: "title asc"
+  type: grid
+  grid-columns: 2
+  image-placeholder: placeholder.jpg
+  grid-item-border: false
+  categories: false
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: false
+---

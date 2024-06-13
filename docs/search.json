@@ -32,7 +32,7 @@
     "href": "blog/index.html",
     "title": "Blog",
     "section": "",
-    "text": "My Post\n\n\nPost description\n\n\n\nAdam Dennett\n\n\nMar 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nMy Post\n\n\nShort guide for Adding a new Blog Post\n\n\n\nAdam Dennett\n\n\nMar 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nThird test\n\n\nPost description\n\n\n\nAdam Dennett\n\n\nMar 26, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "My Post\n\n\nPost description\n\n\n\nAdam Dennett\n\n\nJun 13, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy Post\n\n\nShort guide for Adding a new Blog Post\n\n\n\nAdam Dennett\n\n\nJun 13, 2024\n\n\n\n\n\n\n\n\n\n\n \n\n\n\nMy Post\n\n\nA third post\n\n\n\nAdam Dennett\n\n\nJun 13, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "blog/posts/my_first_post/index.html",
@@ -60,7 +60,7 @@
     "href": "people/index.html",
     "title": "Who are we?",
     "section": "",
-    "text": "Adam Dennett\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClaude Lynch\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEsra Suel\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGerry Casey\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaria Wood\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTom Murat\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Adam Dennett\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClaude Lynch\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEsra Suel\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGerry Casey\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaria Wood\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTom Murat\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people/profiles/adam/index.html",
@@ -194,5 +194,33 @@
     "title": "Our Mission",
     "section": "",
     "text": "Our vision is that data driven insights are readily available to decision makers in the city realm who are facing existential challenges and problems relating to, in particular, climate change and social inequality. In 5 years these practitioners will be able to assess and appraise a wide range of possible interventions, getting insights on the benefits/disbenefits of a given intervention as they go. The tooling and analysis informs and shapes their decision making in a way that leverages the inputs of a wide set of stakeholders and permits truly participatory decision making in shared urban spaces.. We want to use these methods and data to break down the silos in policy making, formally recognising the interconnected nature of systems in decision making.\nOur vision consists of two related but distinct missions:\n\nSustainable and equitable shared urban environments – we propose jointly exploring future needs through the lens of the outcomes we wish to achieve, enabling more sustainable and equitable shared economies. This requires codifying and defining meaningful metrics beyond, for example, traditional transportation value definitions such as agglomeration benefits or journey time savings. This is viewing larger urban changes through the lens of a wider set of outcomes. \n\n\n\nHuman centric modelling  - We suggest we do this by continuing to explore the use of bottom up complex modelling approaches such as agent and activity based methodologies, leveraging cloud computing and advances in synthetic populations. This is key is putting the individual at the heart of what we do. \n\nOur mission (i.e. your purpose, why you exist and what you hope to achieve. Your values and work)\nThe purpose of the CASA Arup City Modelling Lab is to foster innovation between theory and practice, projects and policies. We take some of the most pressing and complex challenges from city decision makers and co-develop methods, data and tooling that better enable city decision makers to make the changes required to tackle pressing global challenges such as social inequality and climate change. \nArup is a mission orientated organisation who deliver insights and solutions for clients making big decisions in urban environments. UCL brings methodological innovation, long run and deep dive research into substantive problem areas leading to the development and refinement of theory facilitated by iterative  testing,  appraisal and multi-stakeholder interaction. \nThe joint CASA Arup City Modelling Lab exists to bridge the gap between practice and theory, and projects and policies. There is cutting edge theory (and data) that can enable policy makers to better deliver projects, but often the theory is immature, limited in transferability and has no tooling for practical implementation. \nThere’s a diversity of prioritisation within urban policy making and resource availability that means that projects delivered in for one city government which benefit that city frequently do not find implementation elsewhere. but could be readily applicable to another but commercial"
+  },
+  {
+    "objectID": "blog/posts/my_third_post/index.html",
+    "href": "blog/posts/my_third_post/index.html",
+    "title": "My Post",
+    "section": "",
+    "text": "Some text here"
+  },
+  {
+    "objectID": "presentations/index.html",
+    "href": "presentations/index.html",
+    "title": "Some things we’ve talked about",
+    "section": "",
+    "text": "AUM Presentation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPresentation 1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "presentations/pres/pres1/index.html",
+    "href": "presentations/pres/pres1/index.html",
+    "title": "Presentation 1",
+    "section": "",
+    "text": "Presentation"
+  },
+  {
+    "objectID": "presentations/pres/pres2/index.html",
+    "href": "presentations/pres/pres2/index.html",
+    "title": "AUM Presentation",
+    "section": "",
+    "text": "Social Equity Considerations in Modelling Transport Systems Transitioning to Net-Zero – Progress and Prospects"
   }
 ]

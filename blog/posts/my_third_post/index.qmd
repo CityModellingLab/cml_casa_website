@@ -1,0 +1,9 @@
+---
+title: "My Post"
+description: "A third post"
+author: "Adam Dennett"
+date: today
+draft: false
+---
+
+Some text here

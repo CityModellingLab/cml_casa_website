@@ -1,0 +1,13 @@
+---
+title: "AUM Presentation"
+format:
+  html:
+    page-layout: article
+    toc: false
+    html-math-method: katex
+    css: styles.css 
+---
+
+Social Equity Considerations in Modelling Transport Systems Transitioning to Net-Zero – Progress and Prospects
+
+![](placeholder.jpeg)

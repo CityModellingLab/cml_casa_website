@@ -1,9 +1,0 @@
----
-title: "Third test"
-description: "Post description"
-author: "Adam Dennett"
-date: today
-draft: false
----
-
-Why are you not rendering?
