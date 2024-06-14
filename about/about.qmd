@@ -13,21 +13,15 @@ Our vision is that data driven insights are readily available to decision makers
 
 Our vision consists of two related but distinct missions:
 
-1.  Sustainable and equitable shared urban environments -- we propose jointly exploring future needs through the lens of the outcomes we wish to achieve, enabling more sustainable and equitable shared economies. This requires codifying and defining meaningful metrics beyond, for example, traditional transportation value definitions such as agglomeration benefits or journey time savings. This is viewing larger urban changes through the lens of a wider set of outcomes. 
+1.  Creating sustainable and equitable shared urban environments - we propose jointly exploring future needs through the lens of the outcomes we wish to achieve (e.g. increased public transport usage, reduced carbon emissions from transit activities, better affordable housing provision), enabling more sustainable and equitable shared economies. This requires codifying and defining meaningful metrics beyond, for example, traditional transportation value definitions such as agglomeration benefits or journey time savings. This is viewing larger urban changes through the lens of a wider set of outcomes. 
 
-<!-- -->
-
-2.  Human centric modelling  - We suggest we do this by continuing to explore the use of bottom up complex modelling approaches such as agent and activity based methodologies, leveraging cloud computing and advances in synthetic populations. This is key is putting the individual at the heart of what we do. 
-
-Our mission (i.e. your purpose, why you exist and what you hope to achieve. Your values and work)
+2.  Leveraging the power of human-centric modelling - we suggest we do this by continuing to explore the use of bottom up complex modelling approaches such as agent and activity based methodologies, leveraging cloud computing and advances in synthetic populations to explore how urban-scale patterns and processes emerge from aggregated individual behaviours. This is key and is putting the individual at the heart of what we do. 
 
 The purpose of the CASA Arup City Modelling Lab is to foster innovation between theory and practice, projects and policies. We take some of the most pressing and complex challenges from city decision makers and co-develop methods, data and tooling that better enable city decision makers to make the changes required to tackle pressing global challenges such as social inequality and climate change. 
 
 Arup is a mission orientated organisation who deliver insights and solutions for clients making big decisions in urban environments. UCL brings methodological innovation, long run and deep dive research into substantive problem areas leading to the development and refinement of theory facilitated by iterative  testing,  appraisal and multi-stakeholder interaction. 
 
-The joint CASA Arup City Modelling Lab exists to bridge the gap between practice and theory, and projects and policies. There is cutting edge theory (and data) that can enable policy makers to better deliver projects, but often the theory is immature, limited in transferability and has no tooling for practical implementation. 
-
-There's a diversity of prioritisation within urban policy making and resource availability that means that projects delivered in for one city government which benefit that city frequently do not find implementation elsewhere. but could be readily applicable to another but commercial 
+The joint CASA Arup City Modelling Lab exists to bridge the gap between practice and theory, and projects and policies. There is cutting edge theory (and data) that can enable policy makers to better deliver projects, but often the theory is immature, limited in transferability and has no tooling for practical implementation. There's a fragmentation and diversity of prioritisation within urban policy making coupled with challenges around resource availability that means that projects delivered for one city government and that benefit that city, frequently do not find implementation elsewhere. Our collaboration here hopes to facilitate better sharing of the best consultancy and academic practice outside of their normal spheres of operation.
 
 ## Our approach
 
