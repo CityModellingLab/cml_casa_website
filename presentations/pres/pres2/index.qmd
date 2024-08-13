@@ -10,4 +10,4 @@ format:
 
 Social Equity Considerations in Modelling Transport Systems Transitioning to Net-Zero – Progress and Prospects
 
-![](placeholder.jpeg)
+[![](AUM_Pres.png)](https://adamdennett.github.io/AUM2024/AUM2024Presentation.html)
