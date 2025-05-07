@@ -22,12 +22,9 @@ website:
       - href: presentations/index.qmd
         text: Presentations  
       - icon: bluesky
-        href: https://bsky.app/profile/casaucl.bsky.social
+        url: https://bsky.app/profile/casaucl.bsky.social
       - icon: twitter-x
-        href: https://x.com/CASAUCL
-      # - icon: bank
-      #   text: "UCL"
-      #   href: https://www.ucl.ac.uk/bartlett/casa
+        url: https://x.com/CASAUCL
       - icon: github
         url: https://github.com/CityModellingLab
           # - text: Report a Bug

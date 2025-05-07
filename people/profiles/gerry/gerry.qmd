@@ -1,17 +1,32 @@
 ---
 title: "Gerry Casey"
-format:
-  html:
-    page-layout: article
-    toc: false
-    html-math-method: katex
-    css: styles.css 
+image: gerry.jpg
+toc: false
+about: 
+  template: trestles
+  image: gerry.jpg
+  links:
+    - icon: star
+      text: Website
+      href: https://www.ucl.ac.uk/bartlett/casa
+    - icon: bank
+      text: UCL profile
+      href: https://www.ucl.ac.uk/bartlett/casa
+    - icon: github
+      text: GitHub
+      href: https://www.ucl.ac.uk/bartlett/casa
+    # - icon: linkedin
+    #   text: LinkedIn
+    #   href: https://www.ucl.ac.uk/bartlett/casa
+    # - icon: google
+    #   text: Scholar
+    #   href: https://www.ucl.ac.uk/bartlett/casa
 ---
-
-![](gerry.jpg){width="100%"}
 
 Headline fact
 
-## Education
+### Education
 
-## Experience
+### Experience
+
+## Fact File

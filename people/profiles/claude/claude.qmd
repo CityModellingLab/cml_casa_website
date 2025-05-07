@@ -1,16 +1,31 @@
 ---
 title: "Claude Lynch"
-format:
-  html:
-    page-layout: article
-    toc: false
-    html-math-method: katex
-    css: styles.css 
+image: claude.jpg
+toc: false
+about: 
+  template: trestles
+  image: claude.jpg
+  links:
+    - icon: star
+      text: Website
+      href: https://www.ucl.ac.uk/bartlett/casa
+    - icon: bank
+      text: UCL profile
+      href: https://www.ucl.ac.uk/bartlett/casa
+    - icon: github
+      text: GitHub
+      href: https://www.ucl.ac.uk/bartlett/casa
+    # - icon: linkedin
+    #   text: LinkedIn
+    #   href: https://www.ucl.ac.uk/bartlett/casa
+    # - icon: google
+    #   text: Scholar
+    #   href: https://www.ucl.ac.uk/bartlett/casa
 ---
 
-![](claude.jpg){width="50%"}
+After undertaking a master's in Critical Theory, Claude arrived in CASA to provoke planners in unexpected ways. Because he is an indie kid and more or less trapped in 2015, no one has bothered to listen to him yet.
 
-**Fact File**: After undertaking a master's in Critical Theory, Claude arrived in CASA to provoke planners in unexpected ways. Because he is an indie kid and more or less trapped in 2015, no one has bothered to listen to him yet.
+## Fact File
 
 |                                    |       |
 |------------------------------------|-------|

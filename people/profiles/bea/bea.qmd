@@ -3,7 +3,7 @@ title: "Bea Taylor"
 image: BeaTaylor_profpic.jpg
 toc: false
 about:
-  template: solana
+  template: trestles
   image: BeaTaylor_profpic.jpg
   links:
     - icon: star
@@ -18,14 +18,14 @@ about:
     - icon: github
       text: GitHub
       href: https://github.com/Bea-Taylor
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/beatrice-taylor-027a7019a/
+    # - icon: linkedin
+    #   text: LinkedIn
+    #   href: https://www.linkedin.com/in/beatrice-taylor-027a7019a/
 ---
 
 Bea joined CASA as a postdoc in 2024. She's interested in applied machine learning, mathematical modelling, public policy and (unrelatedly) knitting.
 
-### Fact File
+## Fact File
 
 |                                    |     |
 |------------------------------------|-----|

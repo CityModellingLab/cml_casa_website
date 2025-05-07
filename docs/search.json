@@ -60,7 +60,7 @@
     "href": "people/index.html",
     "title": "Who are we?",
     "section": "",
-    "text": "Adam Dennett\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBea Taylor\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClaude Lynch\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEsra Suel\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGerry Casey\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaria Wood\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTom Murat\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Adam Dennett\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBea Taylor\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClaude Lynch\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEsra Suel\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGerry Casey\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaria Wood\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTom Murat\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people/profiles/adam/index.html",
@@ -165,7 +165,7 @@
     "href": "projects/index.html",
     "title": "Some things we’re researching",
     "section": "",
-    "text": "Artificial Intelligence for Collective Intelligence (AI4CI) - Smart Cities\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Artificial Intelligence for Collective Intelligence (AI4CI) - Smart Cities\n\n\nTo address society’s most pressing challenges we need new kinds of Collective Intelligence.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/proj/proj1/index.html",
@@ -319,7 +319,7 @@
     "href": "people/profiles/adam/adam.html",
     "title": "Adam Dennett",
     "section": "",
-    "text": "Fact File: Since his CASA debut in 2010, Adam has risen to the rank of Professor of Urban Analytics. Despite a fondness for body art and drum and bass music, he still manages to hold it down on the mapping and modelling front.\n\n\n\nGood Listener\n5\n\n\nPersonal Hygine\n17\n\n\nAdvanced Spatial Analysis Quotient\n102\n\n\nShamelessness\n28\n\n\nHuggability\n7\n\n\nCoding Chops\n8\n\n\n\nOK, made a few changes, so seeing if this works!"
+    "text": "Since his CASA debut in 2010, Adam has risen to the rank of Professor of Urban Analytics. Despite a fondness for body art and drum and bass music, he still manages to hold it down on the mapping and modelling front."
   },
   {
     "objectID": "people/profiles/gerry/gerry.html",
@@ -347,7 +347,7 @@
     "href": "people/profiles/claude/claude.html",
     "title": "Claude Lynch",
     "section": "",
-    "text": "Fact File: After undertaking a master’s in Critical Theory, Claude arrived in CASA to provoke planners in unexpected ways. Because he is an indie kid and more or less trapped in 2015, no one has bothered to listen to him yet.\n\n\n\nGood Listener\n3\n\n\nPersonal Hygiene\n15\n\n\nAdvanced Spatial Analysis Quotient\n40\n\n\nShamelessness\n70\n\n\nHuggability\nDon’t\n\n\nCoding Chops\n2"
+    "text": "After undertaking a master’s in Critical Theory, Claude arrived in CASA to provoke planners in unexpected ways. Because he is an indie kid and more or less trapped in 2015, no one has bothered to listen to him yet."
   },
   {
     "objectID": "blog/old_posts/my_third_post/post3.html",
@@ -410,7 +410,7 @@
     "href": "people/profiles/maria/maria.html",
     "title": "Maria Wood",
     "section": "",
-    "text": "Fact File: Maria is a first-year PhD student at CASA, focusing on equity in transport electrification. She loves trying to fix everything that’s wrong with the world but so far has only managed to patch the hole in her dungarees. Great taste in music, poor taste in lunch spots."
+    "text": "Maria is a first-year PhD student at CASA, focusing on equity in transport electrification. She loves trying to fix everything that’s wrong with the world but so far has only managed to patch the hole in her dungarees. Great taste in music, poor taste in lunch spots."
   },
   {
     "objectID": "people/profiles/maria/maria.html#education",
@@ -452,6 +452,48 @@
     "href": "people/profiles/bea/bea.html",
     "title": "Bea Taylor",
     "section": "",
-    "text": "Bea joined CASA as a postdoc in 2024. She’s interested in applied machine learning, mathematical modelling, public policy and (unrelatedly) knitting.\n\nFact File\n\n\n\nGood Listener\n5\n\n\nPersonal Hygine\n17\n\n\nAdvanced Spatial Analysis Quotient\n102\n\n\nShamelessness\n28\n\n\nHuggability\n7\n\n\nCoding Chops\n8"
+    "text": "Bea joined CASA as a postdoc in 2024. She’s interested in applied machine learning, mathematical modelling, public policy and (unrelatedly) knitting.\n\nFact File\n\n\n\nGood Listener\n42\n\n\nPersonal Hygine\n18\n\n\nAdvanced Spatial Analysis Quotient\n72\n\n\nShamelessness\n19\n\n\nHuggability\n27\n\n\nCoding Chops\n83"
+  },
+  {
+    "objectID": "people/profiles/adam/adam.html#fact-file",
+    "href": "people/profiles/adam/adam.html#fact-file",
+    "title": "Adam Dennett",
+    "section": "Fact File",
+    "text": "Fact File\n\n\n\nGood Listener\n5\n\n\nPersonal Hygine\n17\n\n\nAdvanced Spatial Analysis Quotient\n102\n\n\nShamelessness\n28\n\n\nHuggability\n7\n\n\nCoding Chops\n8"
+  },
+  {
+    "objectID": "people/profiles/maria/maria.html#fact-file",
+    "href": "people/profiles/maria/maria.html#fact-file",
+    "title": "Maria Wood",
+    "section": "Fact File",
+    "text": "Fact File\n\n\n\nGood Listener\n100\n\n\nPersonal Hygeine\n100\n\n\nAdvanced Spatial Analysis Quotient\nwhat does this mean?? zero\n\n\nShamelessness\n4000\n\n\nHuggability\nyes please\n\n\nCoding Chops\n-9"
+  },
+  {
+    "objectID": "people/profiles/claude/claude.html#fact-file",
+    "href": "people/profiles/claude/claude.html#fact-file",
+    "title": "Claude Lynch",
+    "section": "Fact File",
+    "text": "Fact File\n\n\n\nGood Listener\n3\n\n\nPersonal Hygiene\n15\n\n\nAdvanced Spatial Analysis Quotient\n40\n\n\nShamelessness\n70\n\n\nHuggability\nDon’t\n\n\nCoding Chops\n2"
+  },
+  {
+    "objectID": "people/profiles/esra/esra.html#fact-file",
+    "href": "people/profiles/esra/esra.html#fact-file",
+    "title": "Esra Suel",
+    "section": "Fact File",
+    "text": "Fact File"
+  },
+  {
+    "objectID": "people/profiles/gerry/gerry.html#fact-file",
+    "href": "people/profiles/gerry/gerry.html#fact-file",
+    "title": "Gerry Casey",
+    "section": "Fact File",
+    "text": "Fact File"
+  },
+  {
+    "objectID": "people/profiles/tom/tom.html#fact-file",
+    "href": "people/profiles/tom/tom.html#fact-file",
+    "title": "Tom Murat",
+    "section": "Fact File",
+    "text": "Fact File"
   }
 ]
