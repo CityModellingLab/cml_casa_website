@@ -2,12 +2,9 @@
 title: "Some things we've talked about"
 listing: 
   contents: pres
-  sort: "title asc"
+  sort: "date desc"
   type: grid
-  grid-columns: 2
-  image-placeholder: placeholder.jpg
-  grid-item-border: false
-  categories: false
+  categories: true
   sort-ui: false
   filter-ui: false
 page-layout: full

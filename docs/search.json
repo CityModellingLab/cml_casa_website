@@ -30,9 +30,9 @@
   {
     "objectID": "blog/index.html",
     "href": "blog/index.html",
-    "title": "Blog",
+    "title": "Some things we’ve thought about",
     "section": "",
-    "text": "My Post\n\n\nPost description\n\n\n\nAdam Dennett\n\n\nJun 13, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy Post\n\n\nShort guide for Adding a new Blog Post\n\n\n\nAdam Dennett\n\n\nJun 13, 2024\n\n\n\n\n\n\n\n\n\n\n \n\n\n\nMy Post\n\n\nA third post\n\n\n\nAdam Dennett\n\n\nJun 13, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Blog post template\n\n\n\ntemplate\n\n\npractise\n\n\n\nShort guide for adding a new Blog Post\n\n\n\nAdam Dennett\n\n\nMay 7, 2025\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "blog/posts/my_first_post/index.html",
@@ -60,7 +60,7 @@
     "href": "people/index.html",
     "title": "Who are we?",
     "section": "",
-    "text": "Adam Dennett\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClaude Lynch\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEsra Suel\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGerry Casey\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaria Wood\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTom Murat\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Adam Dennett\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBea Taylor\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClaude Lynch\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEsra Suel\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGerry Casey\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaria Wood\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTom Murat\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people/profiles/adam/index.html",
@@ -163,9 +163,9 @@
   {
     "objectID": "projects/index.html",
     "href": "projects/index.html",
-    "title": "What do we do?",
+    "title": "Some things we’re researching",
     "section": "",
-    "text": "Artificial Intelligence for Collective Intelligence (AI4CI) Research Hub\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Artificial Intelligence for Collective Intelligence (AI4CI) - Smart Cities\n\n\nTo address society’s most pressing challenges we need new kinds of Collective Intelligence.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/proj/proj1/index.html",
@@ -193,7 +193,7 @@
     "href": "about/about.html#the-vision",
     "title": "Our Mission",
     "section": "",
-    "text": "Our vision is that data driven insights are readily available to decision makers in the city realm who are facing existential challenges and problems relating to, in particular, climate change and social inequality. In 5 years these practitioners will be able to assess and appraise a wide range of possible interventions, getting insights on the benefits/disbenefits of a given intervention as they go. The tooling and analysis informs and shapes their decision making in a way that leverages the inputs of a wide set of stakeholders and permits truly participatory decision making in shared urban spaces.. We want to use these methods and data to break down the silos in policy making, formally recognising the interconnected nature of systems in decision making.\nOur vision consists of two related but distinct missions:\n\nSustainable and equitable shared urban environments – we propose jointly exploring future needs through the lens of the outcomes we wish to achieve, enabling more sustainable and equitable shared economies. This requires codifying and defining meaningful metrics beyond, for example, traditional transportation value definitions such as agglomeration benefits or journey time savings. This is viewing larger urban changes through the lens of a wider set of outcomes. \n\n\n\nHuman centric modelling  - We suggest we do this by continuing to explore the use of bottom up complex modelling approaches such as agent and activity based methodologies, leveraging cloud computing and advances in synthetic populations. This is key is putting the individual at the heart of what we do. \n\nOur mission (i.e. your purpose, why you exist and what you hope to achieve. Your values and work)\nThe purpose of the CASA Arup City Modelling Lab is to foster innovation between theory and practice, projects and policies. We take some of the most pressing and complex challenges from city decision makers and co-develop methods, data and tooling that better enable city decision makers to make the changes required to tackle pressing global challenges such as social inequality and climate change. \nArup is a mission orientated organisation who deliver insights and solutions for clients making big decisions in urban environments. UCL brings methodological innovation, long run and deep dive research into substantive problem areas leading to the development and refinement of theory facilitated by iterative  testing,  appraisal and multi-stakeholder interaction. \nThe joint CASA Arup City Modelling Lab exists to bridge the gap between practice and theory, and projects and policies. There is cutting edge theory (and data) that can enable policy makers to better deliver projects, but often the theory is immature, limited in transferability and has no tooling for practical implementation. \nThere’s a diversity of prioritisation within urban policy making and resource availability that means that projects delivered in for one city government which benefit that city frequently do not find implementation elsewhere. but could be readily applicable to another but commercial"
+    "text": "Our vision is that data driven insights are readily available to decision makers in the city realm who are facing existential challenges and problems relating to, in particular, climate change and social inequality. In 5 years these practitioners will be able to assess and appraise a wide range of possible interventions, getting insights on the benefits/disbenefits of a given intervention as they go. The tooling and analysis informs and shapes their decision making in a way that leverages the inputs of a wide set of stakeholders and permits truly participatory decision making in shared urban spaces.. We want to use these methods and data to break down the silos in policy making, formally recognising the interconnected nature of systems in decision making.\nOur vision consists of two related but distinct missions:\n\nCreating sustainable and equitable shared urban environments - we propose jointly exploring future needs through the lens of the outcomes we wish to achieve (e.g. increased public transport usage, reduced carbon emissions from transit activities, better affordable housing provision), enabling more sustainable and equitable shared economies. This requires codifying and defining meaningful metrics beyond, for example, traditional transportation value definitions such as agglomeration benefits or journey time savings. This is viewing larger urban changes through the lens of a wider set of outcomes. \nLeveraging the power of human-centric modelling - we suggest we do this by continuing to explore the use of bottom up complex modelling approaches such as agent and activity based methodologies, leveraging cloud computing and advances in synthetic populations to explore how urban-scale patterns and processes emerge from aggregated individual behaviours. This is key and is putting the individual at the heart of what we do. \n\nThe purpose of the CASA Arup City Modelling Lab is to foster innovation between theory and practice, projects and policies. We take some of the most pressing and complex challenges from city decision makers and co-develop methods, data and tooling that better enable city decision makers to make the changes required to tackle pressing global challenges such as social inequality and climate change. \nArup is a mission orientated organisation who deliver insights and solutions for clients making big decisions in urban environments. UCL brings methodological innovation, long run and deep dive research into substantive problem areas leading to the development and refinement of theory facilitated by iterative  testing,  appraisal and multi-stakeholder interaction. \nThe joint CASA Arup City Modelling Lab exists to bridge the gap between practice and theory, and projects and policies. There is cutting edge theory (and data) that can enable policy makers to better deliver projects, but often the theory is immature, limited in transferability and has no tooling for practical implementation. There’s a fragmentation and diversity of prioritisation within urban policy making coupled with challenges around resource availability that means that projects delivered for one city government and that benefit that city, frequently do not find implementation elsewhere. Our collaboration here hopes to facilitate better sharing of the best consultancy and academic practice outside of their normal spheres of operation."
   },
   {
     "objectID": "blog/posts/my_third_post/index.html",
@@ -207,7 +207,7 @@
     "href": "presentations/index.html",
     "title": "Some things we’ve talked about",
     "section": "",
-    "text": "AUM Presentation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPresentation 1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "AUM Presentation\n\n\n\ntransport\n\n\nnet-zero\n\n\n\n\n\n\n\n\n\n\nJun 26, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "presentations/pres/pres1/index.html",
@@ -236,5 +236,271 @@
     "title": "Artificial Intelligence for Collective Intelligence (AI4CI) Research Hub",
     "section": "Smart Cities",
     "text": "Smart Cities\nThe Smart Cities ‘spoke’ of the national hub is a joint effort between UCL CASA and the University of Glasgow. Starting in September 2024, we will be looking to explore how AI methods can be used in an Urban Planning Context, exploring planning applications data from the Planning London Datahub and urban transport models, building on the activity based MATSIM models developed in the Arup City Modelling Lab."
+  },
+  {
+    "objectID": "about.html#the-vision",
+    "href": "about.html#the-vision",
+    "title": "Our Mission",
+    "section": "",
+    "text": "Our vision is that data driven insights are readily available to decision makers in the city realm who are facing existential challenges and problems relating to, in particular, climate change and social inequality. In 5 years these practitioners will be able to assess and appraise a wide range of possible interventions, getting insights on the benefits/disbenefits of a given intervention as they go. The tooling and analysis informs and shapes their decision making in a way that leverages the inputs of a wide set of stakeholders and permits truly participatory decision making in shared urban spaces.. We want to use these methods and data to break down the silos in policy making, formally recognising the interconnected nature of systems in decision making.\nOur vision consists of two related but distinct missions:\n\nCreating sustainable and equitable shared urban environments - we propose jointly exploring future needs through the lens of the outcomes we wish to achieve (e.g. increased public transport usage, reduced carbon emissions from transit activities, better affordable housing provision), enabling more sustainable and equitable shared economies. This requires codifying and defining meaningful metrics beyond, for example, traditional transportation value definitions such as agglomeration benefits or journey time savings. This is viewing larger urban changes through the lens of a wider set of outcomes. \nLeveraging the power of human-centric modelling - we suggest we do this by continuing to explore the use of bottom up complex modelling approaches such as agent and activity based methodologies, leveraging cloud computing and advances in synthetic populations to explore how urban-scale patterns and processes emerge from aggregated individual behaviours. This is key and is putting the individual at the heart of what we do. \n\nThe purpose of the CASA Arup City Modelling Lab is to foster innovation between theory and practice, projects and policies. We take some of the most pressing and complex challenges from city decision makers and co-develop methods, data and tooling that better enable city decision makers to make the changes required to tackle pressing global challenges such as social inequality and climate change. \nArup is a mission orientated organisation who deliver insights and solutions for clients making big decisions in urban environments. UCL brings methodological innovation, long run and deep dive research into substantive problem areas leading to the development and refinement of theory facilitated by iterative  testing,  appraisal and multi-stakeholder interaction. \nThe joint CASA Arup City Modelling Lab exists to bridge the gap between practice and theory, and projects and policies. There is cutting edge theory (and data) that can enable policy makers to better deliver projects, but often the theory is immature, limited in transferability and has no tooling for practical implementation. There’s a fragmentation and diversity of prioritisation within urban policy making coupled with challenges around resource availability that means that projects delivered for one city government and that benefit that city, frequently do not find implementation elsewhere. Our collaboration here hopes to facilitate better sharing of the best consultancy and academic practice outside of their normal spheres of operation."
+  },
+  {
+    "objectID": "projects/proj/proj1/AI4CI_overview.html",
+    "href": "projects/proj/proj1/AI4CI_overview.html",
+    "title": "Artificial Intelligence for Collective Intelligence (AI4CI) - Smart Cities",
+    "section": "",
+    "text": "AI4CI"
+  },
+  {
+    "objectID": "projects/proj/proj1/AI4CI_overview.html#funder---ukri",
+    "href": "projects/proj/proj1/AI4CI_overview.html#funder---ukri",
+    "title": "Artificial Intelligence for Collective Intelligence (AI4CI) - Smart Cities",
+    "section": "Funder - UKRI",
+    "text": "Funder - UKRI"
+  },
+  {
+    "objectID": "projects/proj/proj1/AI4CI_overview.html#aims-and-objectives",
+    "href": "projects/proj/proj1/AI4CI_overview.html#aims-and-objectives",
+    "title": "Artificial Intelligence for Collective Intelligence (AI4CI) - Smart Cities",
+    "section": "Aims and Objectives",
+    "text": "Aims and Objectives\nTo address society’s most pressing challenges we must be able to reliably engineer important new kinds of Collective Intelligence:\n“Connected communities of people, devices, data and software collaboratively sensing and interacting in real-time to achieve positive outcomes at multiple scales”.\nNew AI methods and technologies are central to meeting this challenge.\nThe AI4CI Hub combines AI expertise with excellence in key application domains in a strongly integrated national consortium of leading UK universities working with dozens of non-academic partners from across government, industry and civil society."
+  },
+  {
+    "objectID": "projects/proj/proj1/AI4CI_overview.html#smart-cities",
+    "href": "projects/proj/proj1/AI4CI_overview.html#smart-cities",
+    "title": "Artificial Intelligence for Collective Intelligence (AI4CI) - Smart Cities",
+    "section": "Smart Cities",
+    "text": "Smart Cities\nThe Smart Cities ‘spoke’ of the national hub is a joint effort between UCL CASA and the University of Glasgow. Starting in September 2024, we will be looking to explore how AI methods can be used in an Urban Planning Context, exploring planning applications data from the Planning London Datahub and urban transport models, building on the activity based MATSIM models developed in the Arup City Modelling Lab."
+  },
+  {
+    "objectID": "presentations/pres/pres1/presentation1.html",
+    "href": "presentations/pres/pres1/presentation1.html",
+    "title": "Presentation 1",
+    "section": "",
+    "text": "Presentation"
+  },
+  {
+    "objectID": "blog/posts/my_third_post/post3.html",
+    "href": "blog/posts/my_third_post/post3.html",
+    "title": "My Post",
+    "section": "",
+    "text": "Some text here"
+  },
+  {
+    "objectID": "blog/posts/my_first_post/post1.html",
+    "href": "blog/posts/my_first_post/post1.html",
+    "title": "My Post",
+    "section": "",
+    "text": "things aren’t deploying and I don’t know why.\nOh wait, I do I think - need to render locally first.\nHmm Still not working"
+  },
+  {
+    "objectID": "blog/posts/my_second_post/post2.html",
+    "href": "blog/posts/my_second_post/post2.html",
+    "title": "My Post",
+    "section": "",
+    "text": "Adding a new blog post is fairly easy.\n\nClone this whole github repo onto your machine - but create a new branch so you don’t mess up the main branch. I may need to do something on github to add you as a user.\nCreate a new folder in the posts directory\nSave a new index.qmd file in that folder\nFill the new index.qmd file with whatever you want to blog about.\nin the yaml header at the top, include a few bits of info:\n\ntitle: “Your title” description: “your description” author: “Your name” date: today (if you want to give your post today’s date draft: false (true will not post it, false will)\n\nIf you want to include any images, add them into this folder too:\n\n\n\nSave your .qmd file. Commit and push it back up to github.\nMight need to then make a merge request to merge back into the main branch - which will then render to the world."
+  },
+  {
+    "objectID": "presentations/pres/pres2/AUM_presentation.html",
+    "href": "presentations/pres/pres2/AUM_presentation.html",
+    "title": "AUM Presentation",
+    "section": "",
+    "text": "Social Equity Considerations in Modelling Transport Systems Transitioning to Net-Zero – Progress and Prospects"
+  },
+  {
+    "objectID": "blog/posts/post_template/post_template.html",
+    "href": "blog/posts/post_template/post_template.html",
+    "title": "Blog post template",
+    "section": "",
+    "text": "Adding a new blog post is fairly easy. You can use this .qmd file as a template for your new blog post."
+  },
+  {
+    "objectID": "people/profiles/adam/adam.html",
+    "href": "people/profiles/adam/adam.html",
+    "title": "Adam Dennett",
+    "section": "",
+    "text": "Since his CASA debut in 2010, Adam has risen to the rank of Professor of Urban Analytics. Despite a fondness for body art and drum and bass music, he still manages to hold it down on the mapping and modelling front."
+  },
+  {
+    "objectID": "people/profiles/gerry/gerry.html",
+    "href": "people/profiles/gerry/gerry.html",
+    "title": "Gerry Casey",
+    "section": "",
+    "text": "Headline fact"
+  },
+  {
+    "objectID": "people/profiles/gerry/gerry.html#education",
+    "href": "people/profiles/gerry/gerry.html#education",
+    "title": "Gerry Casey",
+    "section": "Education",
+    "text": "Education"
+  },
+  {
+    "objectID": "people/profiles/gerry/gerry.html#experience",
+    "href": "people/profiles/gerry/gerry.html#experience",
+    "title": "Gerry Casey",
+    "section": "Experience",
+    "text": "Experience"
+  },
+  {
+    "objectID": "people/profiles/claude/claude.html",
+    "href": "people/profiles/claude/claude.html",
+    "title": "Claude Lynch",
+    "section": "",
+    "text": "After undertaking a master’s in Critical Theory, Claude arrived in CASA to provoke planners in unexpected ways. Because he is an indie kid and more or less trapped in 2015, no one has bothered to listen to him yet."
+  },
+  {
+    "objectID": "blog/old_posts/my_third_post/post3.html",
+    "href": "blog/old_posts/my_third_post/post3.html",
+    "title": "My Post",
+    "section": "",
+    "text": "Some text here"
+  },
+  {
+    "objectID": "blog/old_posts/my_first_post/post1.html",
+    "href": "blog/old_posts/my_first_post/post1.html",
+    "title": "My Post",
+    "section": "",
+    "text": "things aren’t deploying and I don’t know why.\nOh wait, I do I think - need to render locally first.\nHmm Still not working"
+  },
+  {
+    "objectID": "people/profiles/tom/tom.html",
+    "href": "people/profiles/tom/tom.html",
+    "title": "Tom Murat",
+    "section": "",
+    "text": "Headline fact"
+  },
+  {
+    "objectID": "people/profiles/tom/tom.html#education",
+    "href": "people/profiles/tom/tom.html#education",
+    "title": "Tom Murat",
+    "section": "Education",
+    "text": "Education"
+  },
+  {
+    "objectID": "people/profiles/tom/tom.html#experience",
+    "href": "people/profiles/tom/tom.html#experience",
+    "title": "Tom Murat",
+    "section": "Experience",
+    "text": "Experience"
+  },
+  {
+    "objectID": "people/profiles/esra/esra.html",
+    "href": "people/profiles/esra/esra.html",
+    "title": "Esra Suel",
+    "section": "",
+    "text": "Headline fact"
+  },
+  {
+    "objectID": "people/profiles/esra/esra.html#education",
+    "href": "people/profiles/esra/esra.html#education",
+    "title": "Esra Suel",
+    "section": "Education",
+    "text": "Education"
+  },
+  {
+    "objectID": "people/profiles/esra/esra.html#experience",
+    "href": "people/profiles/esra/esra.html#experience",
+    "title": "Esra Suel",
+    "section": "Experience",
+    "text": "Experience"
+  },
+  {
+    "objectID": "people/profiles/maria/maria.html",
+    "href": "people/profiles/maria/maria.html",
+    "title": "Maria Wood",
+    "section": "",
+    "text": "Maria is a first-year PhD student at CASA, focusing on equity in transport electrification. She loves trying to fix everything that’s wrong with the world but so far has only managed to patch the hole in her dungarees. Great taste in music, poor taste in lunch spots."
+  },
+  {
+    "objectID": "people/profiles/maria/maria.html#education",
+    "href": "people/profiles/maria/maria.html#education",
+    "title": "Maria Wood",
+    "section": "Education",
+    "text": "Education"
+  },
+  {
+    "objectID": "people/profiles/maria/maria.html#experience",
+    "href": "people/profiles/maria/maria.html#experience",
+    "title": "Maria Wood",
+    "section": "Experience",
+    "text": "Experience"
+  },
+  {
+    "objectID": "blog/posts/post_template/post_template.html#footnotes",
+    "href": "blog/posts/post_template/post_template.html#footnotes",
+    "title": "Blog post template",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThis is a footnote!↩︎"
+  },
+  {
+    "objectID": "presentations/pres/AUM_pres/AUM_presentation.html",
+    "href": "presentations/pres/AUM_pres/AUM_presentation.html",
+    "title": "AUM Presentation",
+    "section": "",
+    "text": "Social Equity Considerations in Modelling Transport Systems Transitioning to Net-Zero – Progress and Prospects"
+  },
+  {
+    "objectID": "presentations/old_pres/pres1/presentation1.html",
+    "href": "presentations/old_pres/pres1/presentation1.html",
+    "title": "Presentation 1",
+    "section": "",
+    "text": "Presentation"
+  },
+  {
+    "objectID": "people/profiles/bea/bea.html",
+    "href": "people/profiles/bea/bea.html",
+    "title": "Bea Taylor",
+    "section": "",
+    "text": "Bea joined CASA as a postdoc in 2024. She’s interested in applied machine learning, mathematical modelling, public policy and (unrelatedly) knitting."
+  },
+  {
+    "objectID": "people/profiles/adam/adam.html#fact-file",
+    "href": "people/profiles/adam/adam.html#fact-file",
+    "title": "Adam Dennett",
+    "section": "Fact File",
+    "text": "Fact File\n\n\n\nGood Listener\n5\n\n\nPersonal Hygine\n17\n\n\nAdvanced Spatial Analysis Quotient\n102\n\n\nShamelessness\n28\n\n\nHuggability\n7\n\n\nCoding Chops\n8"
+  },
+  {
+    "objectID": "people/profiles/maria/maria.html#fact-file",
+    "href": "people/profiles/maria/maria.html#fact-file",
+    "title": "Maria Wood",
+    "section": "Fact File",
+    "text": "Fact File\n\n\n\nGood Listener\n100\n\n\nPersonal Hygeine\n100\n\n\nAdvanced Spatial Analysis Quotient\nwhat does this mean?? zero\n\n\nShamelessness\n4000\n\n\nHuggability\nyes please\n\n\nCoding Chops\n-9"
+  },
+  {
+    "objectID": "people/profiles/claude/claude.html#fact-file",
+    "href": "people/profiles/claude/claude.html#fact-file",
+    "title": "Claude Lynch",
+    "section": "Fact File",
+    "text": "Fact File\n\n\n\nGood Listener\n3\n\n\nPersonal Hygiene\n15\n\n\nAdvanced Spatial Analysis Quotient\n40\n\n\nShamelessness\n70\n\n\nHuggability\nDon’t\n\n\nCoding Chops\n2"
+  },
+  {
+    "objectID": "people/profiles/esra/esra.html#fact-file",
+    "href": "people/profiles/esra/esra.html#fact-file",
+    "title": "Esra Suel",
+    "section": "Fact File",
+    "text": "Fact File"
+  },
+  {
+    "objectID": "people/profiles/gerry/gerry.html#fact-file",
+    "href": "people/profiles/gerry/gerry.html#fact-file",
+    "title": "Gerry Casey",
+    "section": "Fact File",
+    "text": "Fact File"
+  },
+  {
+    "objectID": "people/profiles/tom/tom.html#fact-file",
+    "href": "people/profiles/tom/tom.html#fact-file",
+    "title": "Tom Murat",
+    "section": "Fact File",
+    "text": "Fact File"
+  },
+  {
+    "objectID": "people/profiles/bea/bea.html#fact-file",
+    "href": "people/profiles/bea/bea.html#fact-file",
+    "title": "Bea Taylor",
+    "section": "Fact File",
+    "text": "Fact File\n\n\n\nGood Listener\n42\n\n\nPersonal Hygine\n18\n\n\nAdvanced Spatial Analysis Quotient\n72\n\n\nShamelessness\n19\n\n\nHuggability\n27\n\n\nCoding Chops\n83"
   }
 ]

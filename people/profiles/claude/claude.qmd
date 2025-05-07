@@ -1,0 +1,37 @@
+---
+title: "Claude Lynch"
+image: claude.jpg
+toc: false
+about: 
+  template: trestles
+  image: claude.jpg
+  links:
+    - icon: star
+      text: Website
+      href: https://www.ucl.ac.uk/bartlett/casa
+    - icon: bank
+      text: UCL profile
+      href: https://www.ucl.ac.uk/bartlett/casa
+    - icon: github
+      text: GitHub
+      href: https://www.ucl.ac.uk/bartlett/casa
+    # - icon: linkedin
+    #   text: LinkedIn
+    #   href: https://www.ucl.ac.uk/bartlett/casa
+    # - icon: google
+    #   text: Scholar
+    #   href: https://www.ucl.ac.uk/bartlett/casa
+---
+
+After undertaking a master's in Critical Theory, Claude arrived in CASA to provoke planners in unexpected ways. Because he is an indie kid and more or less trapped in 2015, no one has bothered to listen to him yet.
+
+## Fact File
+
+|                                    |       |
+|------------------------------------|-------|
+| Good Listener                      | 3     |
+| Personal Hygiene                   | 15    |
+| Advanced Spatial Analysis Quotient | 40    |
+| Shamelessness                      | 70    |
+| Huggability                        | Don't |
+| Coding Chops                       | 2     |

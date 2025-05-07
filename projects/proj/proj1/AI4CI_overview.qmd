@@ -1,5 +1,9 @@
 ---
-title: "Artificial Intelligence for Collective Intelligence (AI4CI) Research Hub"
+title: "Artificial Intelligence for Collective Intelligence (AI4CI) - Smart Cities"
+description: "To address society’s most pressing challenges we need new kinds of Collective Intelligence."
+subtitle: a new research hub
+image: placeholder.jpg
+image-alt: "A generated image of a city"
 format:
   html:
     page-layout: article
@@ -7,8 +11,6 @@ format:
     html-math-method: katex
     css: styles.css 
 ---
-
-Artificial Intelligence for Collective Intelligence - Smart Cities
 
 [![AI4CI](AI4CI.png)](https://ai4ci.ac.uk/)
 

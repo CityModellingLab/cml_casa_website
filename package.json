@@ -1,0 +1,26 @@
+{
+  "name": "cml_casa_website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CityModellingLab/cml_casa_website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CityModellingLab/cml_casa_website/issues"
+  },
+  "homepage": "https://github.com/CityModellingLab/cml_casa_website#readme",
+  "description": "",
+  "dependencies": {
+    "bootstrap-icons": "^1.12.1"
+  }
+}

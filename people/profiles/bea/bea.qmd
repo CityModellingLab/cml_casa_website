@@ -1,0 +1,37 @@
+---
+title: "Bea Taylor"
+image: BeaTaylor_profpic.jpg
+toc: false
+about:
+  template: trestles
+  image: BeaTaylor_profpic.jpg
+  links:
+    - icon: star
+      text: Website
+      href: https://bea-taylor.github.io/
+    - icon: bank
+      text: UCL profile
+      href: https://profiles.ucl.ac.uk/82618-beatrice-taylor
+    - icon: google
+      text: Scholar
+      href: https://scholar.google.com/citations?user=RPKzlgoAAAAJ&hl=en
+    - icon: github
+      text: GitHub
+      href: https://github.com/Bea-Taylor
+    # - icon: linkedin
+    #   text: LinkedIn
+    #   href: https://www.linkedin.com/in/beatrice-taylor-027a7019a/
+---
+
+Bea joined CASA as a postdoc in 2024. She's interested in applied machine learning, mathematical modelling, public policy and (unrelatedly) knitting.
+
+## Fact File
+
+|                                    |     |
+|------------------------------------|-----|
+| Good Listener                      | 42  |
+| Personal Hygine                    | 18  |
+| Advanced Spatial Analysis Quotient | 72  |
+| Shamelessness                      | 19  |
+| Huggability                        | 27  |
+| Coding Chops                       | 83  |

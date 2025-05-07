@@ -1,0 +1,37 @@
+---
+title: "Adam Dennett"
+image: adam.jpg
+toc: false
+about: 
+  template: trestles
+  image: adam.jpg
+  links:
+    - icon: star
+      text: Website
+      href: https://adamdennett.co.uk/
+    - icon: bank
+      text: UCL profile
+      href: https://profiles.ucl.ac.uk/28795-adam-dennett
+    - icon: google
+      text: Scholar
+      href: hhttps://scholar.google.co.uk/citations?user=P_sHtmkAAAAJ&hl=en
+    # - icon: github
+    #   text: GitHub
+    #   href: 
+    # - icon: linkedin
+    #   text: LinkedIn
+    #   href: 
+---
+
+Since his CASA debut in 2010, Adam has risen to the rank of Professor of Urban Analytics. Despite a fondness for body art and drum and bass music, he still manages to hold it down on the mapping and modelling front.
+
+## Fact File
+
+|                                    |     |
+|------------------------------------|-----|
+| Good Listener                      | 5   |
+| Personal Hygine                    | 17  |
+| Advanced Spatial Analysis Quotient | 102 |
+| Shamelessness                      | 28  |
+| Huggability                        | 7   |
+| Coding Chops                       | 8   |

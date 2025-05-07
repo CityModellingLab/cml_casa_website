@@ -1,0 +1,39 @@
+---
+title: "Blog post template"
+draft: False
+description: "Short guide for adding a new Blog Post"
+title-block-banner: True
+author: "Adam Dennett"
+date: 05/07/2025
+date-format: medium
+categories: ['template', 'practise']
+---
+
+Adding a new blog post is fairly easy. You can use this .qmd file as a template for your new blog post.
+
+### Steps to add a blog post
+
+1.  Clone this whole github repo onto your machine - but create a new branch so you don't mess up the main branch. Message if you need to be added as a user to the Github repo. 
+2.  Create a new folder in the posts directory
+3.  Save a new .qmd file in that folder (for example post2.qmd)
+4.  Fill the new qmd file with whatever you want to blog about.
+5.  in the yaml header at the top, include a few bits of info:
+* title: "Your title" 
+* description: "your description" 
+* author: "Your name" 
+* date: today (or a chosen date in the format mm/dd/yyyy)
+* draft: False (won't post it, True will) 
+
+5.  If you want to include any images, add them into this folder too, and then insert:
+
+![](sonic.png)
+
+6.  Save your .qmd file. Commit and push it back up to github.
+7.  Might need to then make a merge request to merge back into the main branch - which will then render to the world.
+
+### A few tips 
+
+Quarto largely follows markdown formatting, links can be inserted like [this](https://www.youtube.com/watch?v=dQw4w9WgXcQ), footnotes like this [^1]. You can also use html for more control over the design. 
+
+
+[^1]: This is a footnote!

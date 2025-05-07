@@ -1,0 +1,37 @@
+---
+title: "Maria Wood"
+image: maria.jpg
+toc: false
+about: 
+  template: trestles
+  image: maria.jpg
+  links:
+    - icon: star
+      text: Website
+      href: https://www.ucl.ac.uk/bartlett/casa
+    - icon: bank
+      text: UCL profile
+      href: https://www.ucl.ac.uk/bartlett/casa
+    - icon: github
+      text: GitHub
+      href: https://www.ucl.ac.uk/bartlett/casa
+    # - icon: linkedin
+    #   text: LinkedIn
+    #   href: https://www.ucl.ac.uk/bartlett/casa
+    # - icon: google
+    #   text: Scholar
+    #   href: https://www.ucl.ac.uk/bartlett/casa
+---
+
+Maria is a first-year PhD student at CASA, focusing on equity in transport electrification. She loves trying to fix everything that's wrong with the world but so far has only managed to patch the hole in her dungarees. Great taste in music, poor taste in lunch spots.
+
+## Fact File
+
+|                                    |                            |
+|------------------------------------|----------------------------|
+| Good Listener                      | 100                        |
+| Personal Hygeine                   | 100                        |
+| Advanced Spatial Analysis Quotient | what does this mean?? zero |
+| Shamelessness                      | 4000                       |
+| Huggability                        | yes please                 |
+| Coding Chops                       | -9                         |
