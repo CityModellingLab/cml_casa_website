@@ -1,5 +1,46 @@
 ---
-title: "Welcome to the CASA / Arup City Modelling Lab "
+title: "Welcome to the CASA / Arup City Modelling Lab"
+section-divs: false
+editor: source
+sidebar: false
+search: false
+repo-actions: false
+toc: false
+listing:
+  - id: latest-content
+    contents: 
+    - /projects
+    - /presentations/pres
+    - /blog/posts
+    - "!index.qmd"
+    sort: "date desc"
+    type: grid
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    max-items: 3
+    feed: false
 ---
 
 ![](images/cml_logo.jpeg)
+
+Here at the City Modelling Lab we take some of the most pressing and complex challenges facing cities and develop methods, data and tools to enable city decision makers to make the changes required to tackle pressing global challenges such as social inequality and climate change.
+
+## Latest work
+
+<!-- </a> -->
+
+::: {#latest-content}
+:::
+
+```{=html}
+<!-- :::
+:::
+
+::: {.pullout-text}
+::: {.pullout-container}
+<!-- ::: {.pullout-block .black-background} -->
+```
+
+::: -->
+:::

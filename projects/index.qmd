@@ -1,13 +1,10 @@
 ---
-title: "What do we do?"
+title: "Some things we're researching"
 listing: 
   contents: proj
-  sort: "title asc"
+  sort: "date desc"
   type: grid
-  grid-columns: 2
-  image-placeholder: placeholder.jpg
-  grid-item-border: false
-  categories: false
+  categories: true
   sort-ui: false
   filter-ui: false
 page-layout: full

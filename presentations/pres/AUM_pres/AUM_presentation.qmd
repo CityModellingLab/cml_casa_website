@@ -1,5 +1,9 @@
 ---
 title: "AUM Presentation"
+image: placeholder.jpeg
+date: 06/26/2024
+date-format: medium
+categories: ['transport', 'net-zero']
 format:
   html:
     page-layout: article

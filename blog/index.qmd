@@ -1,5 +1,5 @@
 ---
-title: "Blog"
+title: "Some things we've thought about"
 listing: 
   contents: posts
   sort: "date desc"
@@ -8,5 +8,5 @@ listing:
   sort-ui: false
   filter-ui: false
 page-layout: full
-title-block-banner: true
+title-block-banner: false
 ---

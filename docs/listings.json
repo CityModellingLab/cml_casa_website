@@ -2,33 +2,39 @@
   {
     "listing": "/blog/index.html",
     "items": [
-      "/blog/posts/my_first_post/index.html",
-      "/blog/posts/my_second_post/index.html",
-      "/blog/posts/my_third_post/index.html"
+      "/blog/posts/post_template/post_template.html"
     ]
   },
   {
     "listing": "/people/index.html",
     "items": [
-      "/people/profiles/adam/index.html",
-      "/people/profiles/claude/index.html",
-      "/people/profiles/esra/index.html",
-      "/people/profiles/gerry/index.html",
-      "/people/profiles/maria/index.html",
-      "/people/profiles/tom/index.html"
+      "/people/profiles/adam/adam.html",
+      "/people/profiles/bea/bea.html",
+      "/people/profiles/claude/claude.html",
+      "/people/profiles/esra/esra.html",
+      "/people/profiles/gerry/gerry.html",
+      "/people/profiles/maria/maria.html",
+      "/people/profiles/tom/tom.html"
     ]
   },
   {
     "listing": "/projects/index.html",
     "items": [
-      "/projects/proj/proj1/index.html"
+      "/projects/proj/proj1/AI4CI_overview.html"
     ]
   },
   {
     "listing": "/presentations/index.html",
     "items": [
-      "/presentations/pres/pres2/index.html",
-      "/presentations/pres/pres1/index.html"
+      "/presentations/pres/AUM_pres/AUM_presentation.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/projects/proj/proj1/AI4CI_overview.html",
+      "/blog/posts/post_template/post_template.html",
+      "/presentations/pres/AUM_pres/AUM_presentation.html"
     ]
   }
 ]
