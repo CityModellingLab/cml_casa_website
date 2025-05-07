@@ -452,7 +452,7 @@
     "href": "people/profiles/bea/bea.html",
     "title": "Bea Taylor",
     "section": "",
-    "text": "Bea joined CASA as a postdoc in 2024. She’s interested in applied machine learning, mathematical modelling, public policy and (unrelatedly) knitting.\n\nFact File\n\n\n\nGood Listener\n42\n\n\nPersonal Hygine\n18\n\n\nAdvanced Spatial Analysis Quotient\n72\n\n\nShamelessness\n19\n\n\nHuggability\n27\n\n\nCoding Chops\n83"
+    "text": "Bea joined CASA as a postdoc in 2024. She’s interested in applied machine learning, mathematical modelling, public policy and (unrelatedly) knitting."
   },
   {
     "objectID": "people/profiles/adam/adam.html#fact-file",
@@ -495,5 +495,12 @@
     "title": "Tom Murat",
     "section": "Fact File",
     "text": "Fact File"
+  },
+  {
+    "objectID": "people/profiles/bea/bea.html#fact-file",
+    "href": "people/profiles/bea/bea.html#fact-file",
+    "title": "Bea Taylor",
+    "section": "Fact File",
+    "text": "Fact File\n\n\n\nGood Listener\n42\n\n\nPersonal Hygine\n18\n\n\nAdvanced Spatial Analysis Quotient\n72\n\n\nShamelessness\n19\n\n\nHuggability\n27\n\n\nCoding Chops\n83"
   }
 ]
