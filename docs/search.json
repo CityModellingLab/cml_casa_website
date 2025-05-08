@@ -60,7 +60,7 @@
     "href": "people/index.html",
     "title": "Who are we?",
     "section": "",
-    "text": "Adam Dennett\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBea Taylor\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClaude Lynch\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEsra Suel\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGerry Casey\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaria Wood\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTom Murat\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Adam Dennett\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBea Taylor\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClara Peiret-Garcia\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClaude Lynch\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEsra Suel\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGerry Casey\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaria Wood\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTom Murat\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people/profiles/adam/index.html",
@@ -502,5 +502,19 @@
     "title": "Bea Taylor",
     "section": "Fact File",
     "text": "Fact File\n\n\n\nGood Listener\n42\n\n\nPersonal Hygine\n18\n\n\nAdvanced Spatial Analysis Quotient\n72\n\n\nShamelessness\n19\n\n\nHuggability\n27\n\n\nCoding Chops\n83"
+  },
+  {
+    "objectID": "people/profiles/clara/clara.html",
+    "href": "people/profiles/clara/clara.html",
+    "title": "Clara Peiret-Garcia",
+    "section": "",
+    "text": "Clara joined CASA as a postdoc in January 2025. Her research focuses in identifying spatial inequalities in transport, and developing and applying new methods based using survey data. She is very partial to pretty maps and Bruce Springsteen."
+  },
+  {
+    "objectID": "people/profiles/clara/clara.html#fact-file",
+    "href": "people/profiles/clara/clara.html#fact-file",
+    "title": "Clara Peiret-Garcia",
+    "section": "Fact File",
+    "text": "Fact File\n\n\n\nGood Listener\n57\n\n\nPersonal Hygine\n98\n\n\nAdvanced Spatial Analysis Quotient\n42\n\n\nShamelessness\n36 (increases if the situation involves food)\n\n\nHuggability\n75\n\n\nCoding Chops\n00/01/1900 12:00:00"
   }
 ]
