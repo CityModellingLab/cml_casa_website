@@ -1,0 +1,37 @@
+---
+title: "Clara Peiret-Garcia"
+image: clara_profile.jpg
+toc: false
+about:
+  template: trestles
+  image: clara_profile.jpg
+  links:
+    - icon: star
+      # text: Website
+      # href: https://bea-taylor.github.io/
+    # - icon: bank
+    #   text: UCL profile
+    #   href: https://profiles.ucl.ac.uk/82618-beatrice-taylor
+    # - icon: google
+    #   text: Scholar
+    #   href: https://scholar.google.com/citations?user=RPKzlgoAAAAJ&hl=en
+    - icon: github
+      text: GitHub
+      href: https://github.com/cpeiretgarcia
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/cpeiretgarcia
+---
+
+Clara joined CASA as a postdoc in January 2025. Her research focuses in identifying spatial inequalities in transport, and developing and applying new methods based using survey data. She is very partial to pretty maps and Bruce Springsteen.
+
+## Fact File
+
+|  |  |
+|----|----|
+| Good Listener | 57 |
+| Personal Hygine | 98 |
+| Advanced Spatial Analysis Quotient | 42 |
+| Shamelessness | 36 (increases if the situation involves food) |
+| Huggability | 75 |
+| Coding Chops | 00/01/1900 12:00:00 |
