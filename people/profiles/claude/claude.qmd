@@ -1,29 +1,32 @@
 ---
 title: "Claude Lynch"
-image: claude.jpg
+image: claude_new.jpg
 toc: false
 about: 
   template: trestles
-  image: claude.jpg
+  image: claude_new.jpg
   links:
     - icon: star
       text: Website
-      href: https://www.ucl.ac.uk/bartlett/casa
+      href: https://siskiyoucedar.github.io/
     - icon: bank
       text: UCL profile
-      href: https://www.ucl.ac.uk/bartlett/casa
+      href: https://profiles.ucl.ac.uk/91039-claude-lynch
+    - icon: cloud
+      text: Bluesky
+      href: https://bsky.app/profile/claudelynch.bsky.social
     - icon: github
       text: GitHub
-      href: https://www.ucl.ac.uk/bartlett/casa
-    # - icon: linkedin
-    #   text: LinkedIn
-    #   href: https://www.ucl.ac.uk/bartlett/casa
+      href: https://github.com/siskiyoucedar
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/cehlynch/
     # - icon: google
     #   text: Scholar
     #   href: https://www.ucl.ac.uk/bartlett/casa
 ---
 
-After undertaking a master's in Critical Theory, Claude arrived in CASA to provoke planners in unexpected ways. Because he is an indie kid and more or less trapped in 2015, no one has bothered to listen to him yet.
+After undertaking a master's in Critical Theory, Claude arrived at CASA in 2023 to provoke planners in unexpected ways. As the digital humanist of the team, Claude is frequently cautioning his colleagues on datafication and critical use of GIS. Because he is an 'indie kid' and more or less trapped in 2015, no one has bothered to listen to him yet, but they do let him curate the [office playlist](https://open.spotify.com/playlist/3B9syU87UGMSXYc12Pfs2O?si=c3d94d3c088c40fd).
 
 ## Fact File
 
