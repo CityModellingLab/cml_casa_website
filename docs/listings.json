@@ -2,6 +2,7 @@
   {
     "listing": "/blog/index.html",
     "items": [
+      "/blog/posts/small_council_housing/small_council_housing.html",
       "/blog/posts/post_template/post_template.html"
     ]
   },
@@ -34,6 +35,7 @@
     "listing": "/index.html",
     "items": [
       "/projects/proj/proj1/AI4CI_overview.html",
+      "/blog/posts/small_council_housing/small_council_housing.html",
       "/blog/posts/post_template/post_template.html",
       "/presentations/pres/AUM_pres/AUM_presentation.html"
     ]

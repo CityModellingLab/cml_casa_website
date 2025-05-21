@@ -1,0 +1,225 @@
+---
+title: "London's permanent accommodation crisis"
+draft: False
+title-block-banner: "#9CD39E"
+title-block-banner-color: "#0B1B41"
+image: images/broken_small.jpg
+author: Bea Taylor
+date: 05/21/2025
+date-format: medium
+categories: ['housing', 'data analysis']
+description: 'At the root of the temporary accommodation crisis is a lack of council housing, but what are councils doing to address it?'
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+format:
+  html:
+    code-fold: true
+jupyter: python3
+toc: false
+---
+
+```{=html}
+<!-- One solution which has been mooted to fix the hosuing crisis, in particular the crisis in tmeporary accommodation is to to construct state owend housing. Here I dig into the data to see what councils have actually been building in London and how far it goes towards fixing the crisis. 
+
+We all know there's a housing crisis in London, you don't need to be keenly following the news to have seen the cases of unfair evictions, soaring rents, soraing house prices, and houses in uninhabitable conditions. The rise of people living in temporary accommodation hit the news just last week. Temporary accommodation is the classification of people who are deemed to require hosuing by the council, but who are yet to have been found accommodation, either in a permannaent stae owened home, or a permanent home in the private sector. 
+
+One of the reasons this was in thenews last week is due to the increasing costs of temporary accommodation for councils. 
+
+---- -->
+```
+
+You might have seen the [headlines in the past few weeks](https://www.theguardian.com/news/2025/apr/29/shelter-forecasts-rise-number-of-children-short-term-housing-2029-temporary-accommodation), about the crisis in council finances linked to the rising costs of providing temporary accommodation. In the UK local authorities have a "prevention duty", a statutory obligation to mitigate people becoming homeless. Historically, the typical state intervention would be to find suitable social housing in the local area. However, increasingly local authorities don't have enough social housing available, and are instead placing people in accommodation the council leases from the private sector. This accommodation can range from privately rented flates, to hotels or hostels. In 2024, over 80,000 people were assessed as being owed a prevention duty, leading to some areas spending over 20% of their total council budget on securing temporary accommodation; aggravating the finances of councils already on the [brink of bankruptcy](https://www.insidehousing.co.uk/news/south-east-council-on-brink-of-bankruptcy-over-massive-rise-in-homelessness-costs-82901).
+
+::: column-page
+![](images/broken_house.jpg)
+:::
+
+<!-- The rise in homelessness in the UK is intrinsically linked to other aspects of the UK housing crisis: poor renters rights, soaring housing prices, and an old stock of housing, to name but a few. -->
+
+<!-- Council finances in England are already in a bad state, with multiple councils having declared bankruptcy in recent years, leading to a range of issues providing local welfare services.  -->
+
+Aside from the financial cost, the type of shelter provided as temporary accommodation has been heavily criticised. Firstly, it is often not temporary, with people stuck in this accommodation limbo for years. Secondly, the accommodation is often not suitable for habitation, with notable examples lacking space, cooking facilities, or even [windows](https://news.sky.com/story/windowless-rooms-and-insect-infestations-domestic-abuse-victims-forced-to-live-in-traumatising-properties-12592101) making the news. This is perhaps particularly disturbing considering that in 2024, 25% of households owed a relief duty were families with children.
+
+The most obvious solution to the temporary accommodation crisis would be if there was suitable social housing available. More social housing would allow for temporary accommodation to just be a stop gap (as originally intended) before permanent accommodation is found. The housing crisis in the UK is a complex problem, and the rise in people requiring temporary accommodation is both a symptom of how broken the housing system is, and also a factor in escalating the crisis. In response to the current housing crisis, the UK government has set ambitious targets of building 1.5 million homes over it's term in office, which includes 81,000 residential units being built per year in London. There are no stipulations about how many of these should be social housing. Far smarter people than me have written [again](https://tribunemag.co.uk/2019/11/the-right-to-housing) and [again](https://inews.co.uk/news/long-reads/social-housing-saved-grandparents-right-buy-betrayed-families-1622629?srsltid=AfmBOoqgyFf73Itw9MHt8lsSKeL0OeISX5wSyOxruLw47qjOe8SFCf_Y) about how the construction of new social housing (and crucially the ending of right to buy) is needed to fix the crisis. This got me wondering, in the midst of this crisis in temporary accommodation, what, if anything, councils have been doing to address the lack of social housing. Here I'm going to look specifically at the situation in London --- I'm a bit biased towards researching London as not only is it the city I live and work in, but also there's heaps of public data available for it.
+
+## What happened to all the state owned housing?
+
+Firstly, lets try to understand the existing stock of social housing in London. The peak of council housing construction in the UK was in the early 1950s, when there was a significant push to improve living standards in the wake of the Second World War. The rate of state led housing construction has been in decline ever since. Following the introduction of right to buy by the Thatcher government in 1980, there has been a further large scale sell off of social housing into private ownership.
+
+The terms social housing and council housing are often used synonymously, however they are different. 'Council housing' refers to all residences directly owned by the local council; whereas 'social housing' refers to these plus those properties maintained by housing associations. The switch from council to social housing happened after the introduction of the Housing Act in 1988, which allowed local governments to hand over control of their stock to housing associations. Housing associations are independent not-for-profit companies regulated and largely funded by central government. The lack of construction along with the sell-off has resulted in a precipitious decline in council stock since the 80s, as you can see below in Fig. 1, plotted using the gov.uk tables on [dwelling stock](https://www.gov.uk/government/statistical-data-sets/live-tables-on-dwelling-stock-including-vacants).
+
+```{python}
+#| 
+import plotly.io as pio
+
+# Load the saved Plotly figure from JSON
+fig = pio.read_json("council_stock_london.json")
+
+# Display it inline, fully responsive
+fig.show()
+```
+
+In addition to social housing being lost to private ownership, there have also been a few notable cases of 'failed' housing estates being demolished to make way for redevelopment. Two well known instances of this in London are the Heygate Estate in Elephant and Castle[^1], and Robin Hood Gardens in Poplar[^2], both of which were demolished following criticisms that they created unfavourable living conditions. In the case of redevelopment the local council will often set requirements that the new development replaces the social housing units lost in demolition - however often the work is undertaken by private construction firms who negotiate down the number of social housing units to save costs. As a result, original residents not only lose their homes but are not offered replacement accommodation, leading to their displacement from the area. <!-- note: reference Loretta Lees work here -->
+
+[^1]: If you want to know more about Heygate Estate, Loreeta Lees has written some insightful analysis of the forced social cleansing resulting from it's redevelopment --- see [here](https://www.urbantransformations.ox.ac.uk/blog/2018/challenging-the-gentrification-of-council-estates-in-london/).
+
+[^2]: While Robin Hood Gardens was criticised for reproducing poor living conditions, it was also celebrated by others for its pioneering Brutalist design. This highlights two interesting aspects of Brutalist council housing in London. First, there is a common tendency (of which I am guilty) to romanticise mid-20th-century council housing, both for its striking aesthetic and the ideals of the welfare state that shaped its creation. However, in practice, some of these designs were more ambitious in concept than comfortable in reality. Second, this romanticisation — seen in the 'beautiful Brutalism' trend — has led to certain former council estates becoming highly desirable among middle-class creatives. Iconic examples like Trellick Tower have commodified the architecture of postwar social housing, with some of these once-public housing blocks now entirely in private ownership. There's an interesting critique of this 'beautiful Brutalism' trend [here](https://brutalismasfound.co.uk/demolition-and-afterlife/#:~:text=Robin%20Hood%20Gardens%20continued%20to,be%20replaced%20by%20a%20newfound).
+
+There have been issues with liveability in the remaining old social housing stock. Damp, mould, leakages: all seemingly due to councils and housing associations failing to renovate or retrofit these properties. Poor upkeep of social housing is linked to tragedies like Grenfell Tower. <!-- note: check last sentence -->
+
+<!-- This could be due to financial constraints, but also the housing crisis making it difficult to rehouse people for essential maintenace to be carried out.  -->
+
+<!-- Walking around London, you start to recognise the architectural style favoured by different waves of council led housing projects. From the now lauded post-war Brutalist estates, to the modernist high rises of the 70s and 80s. But despite seeing building projects across the city, including those with the mayoral stamp of approval (see below), its not obvious to me which of these might in fact be state built - and this got me wondering, is any new council hosuing actually being built?  -->
+
+## Analysing the planning applications
+
+Now we can start looking at what social housing has been proposed for development in London. The main source of data for this is the [Planning London Datahub](https://www.london.gov.uk/programmes-strategies/planning/digital-planning/planning-london-datahub) - it is an open dataset of all planning applications filed in London - developed and maintained by the Greater London Authority (GLA). It consists of tabular, free-text and geospatial data from all 33 local authority districts in London (the 32 boroughs plus the City of London). The dataset has some records going back to the mid 20th century, but here I'm just going to look at what has happened in the last ten years, from 1/1/2015 onwards.
+
+In the period 1/1/2015 to 1/1/2025, 1,117 planning applications were filed in London which included at least one social housing unit. 'Unit' means one habitable space such as a flat or house; it could be of any size, or number of rooms.
+
+<!-- These applications included 118,879 residential units of which 30,428 were council housing units.  -->
+
+Fig. 2 shows the breakdown of the 30,428 social housing units proposed - of which 77% were proposed as part of mixed developments. This might seem suprising when thinking of traditional housing blocks or estates constructed in the 20th century, where all of the homes were constructed as council housing. Increasingly, social housing units are being constructed as part of larger developments with units of mixed status. This is partly due to councils trying to reclaim some of the increase in land value that developers gain from receiving planning permission. They do this by using section 106 agreements to ensure developers provide community benefits like social housing or local infrastructure. Whilst mixed developments allow councils to claw back some social value, there have been problems with these developments segregating people by housing type, with so called 'poor doors' for the social housing residents[^3].
+
+[^3]: There's a detailed account of the class segregation on a mixed development in Nine Elms [here](https://www.theguardian.com/artanddesign/2021/feb/02/penthouses-poor-doors-nine-elms-battersea-london-luxury-housing-development).
+
+```{python}
+
+import plotly.io as pio
+
+# Load the saved Plotly figure from JSON
+fig = pio.read_json("units_by_year.json")
+
+# Display it inline, fully responsive
+fig.show()
+```
+
+Alongside social and private units these mixed developments might include other 'affordable'[^4] housing. 'Affordable' housing is a catch all term used by the GLA which covers all housing which costs less for the inhabitant compared to comparable properties on the private market. In addition to social housing this includes: discount market rent, discount market sale, and shared ownership. I'm not considering these other types of 'affordable' housing because they are accessed via the private housing market, and as such fulfill a different purpose, and cater to a different group of people, within the housing ecosystem than social housing.
+
+[^4]: I use quotation marks here not just because I'm a cynic, but also because these 'affordable' prices are calculated with regard to the private housing sector which we know is in crisis, they are NOT calculated in terms of local wages.
+
+Fig. 3 shows the planning applications located on a map. The scatter points are scaled according to the the number of total units in the development (including both social housing units, and general residential units), and colour-coded according to the the type of development. If you hover over any of the scatter points you can find out more details for each planning application.
+
+```{python}
+#| column: screen
+
+import plotly.io as pio
+
+# Load the saved Plotly figure from JSON
+fig = pio.read_json("council_proposed_london_cumulative_map.json")
+fig.update_layout(height=700)
+
+# Display it inline, fully responsive
+fig.show()
+```
+
+You might notice the map is dominated by large blue circles --- indeed the mixed developments have an average of 224 proposed residential units. As you zoom in you can see a scattering of smaller green circles; these are the entirely social housing developments with an average number of just 11 units proposed, suggesting a pattern of more geographically distributed small social housing developments.
+
+## Where are they finding the space?
+
+Something which often comes up in discussion about the housing crisis in London is the lack of available land for development[^5]. According to the London Plan 2021, brownfield sites in London are prioritised for development. The GLA has also focussed on the developement of small sites, which it defines as plots of land measuring less than 0.25 hectares or 2,500 m$^2$ (that's approximately one third of a football pitch). These are typically infill plots - building on these increases densification and mitigates urban sprawl.
+
+[^5]: Which has led to the GLA recently announcing [changing development rights regarding London's green belt](https://www.bbc.co.uk/news/articles/cwy73n9kxyjo).
+
+Fig. 4 shows the breakdown of the size of the sites being proposed for development which would result in a gain of social housing units. 61% of the planning applications filed that would result in a gain of social housing were proposed on small sites. Of the mixed developments the average site area was 9,294m$^2$, whilst the average site area for the entirely social housing developments was 1,621m$^2$.
+
+```{python}
+
+import plotly.io as pio
+
+# Load the saved Plotly figure from JSON
+fig = pio.read_json("pie_site_area.json")
+
+# Display it inline, fully responsive
+fig.show()
+```
+
+Fig. 5 recreates the map in Fig. 3, but this time the planning applications are colour coded, and scaled, according to the area of the site being proposed for development. Looking at the applications for entirely social housing developments, many of these seem to be on land that has existing poorly utilised infrastructure such as garages or carparks, or they are gaps in terraces. Of the mixed development sites 98 were located in [opportunity areas](https://www.london.gov.uk/programmes-strategies/planning/implementing-london-plan/londons-opportunity-areas) --- brownfield land earmarked for development by the London Plan 2021.
+
+```{python}
+#| column: screen
+
+import plotly.io as pio
+
+# Load the saved Plotly figure from JSON
+fig = pio.read_json("council_proposed_london_cumulative_map_site_area.json")
+fig.update_layout(height=700)
+
+# Display it inline, fully responsive
+fig.show()
+```
+
+<!-- Of the entirely social housing developments, 60 were located in opportunity areas. -->
+
+## Comparing local authorities
+
+Fig. 6 shows the variation in the total number of proposed social housing units over the ten year period. There is substantial variation from Southwark where 3,469 units were proposed, to the City of London where just 2 social housing units were proposed.
+
+```{python}
+import plotly.io as pio
+
+# Load the saved Plotly figure from JSON
+fig = pio.read_json("council_proposed_london_stacked_bar.json")
+
+# Display it inline, fully responsive
+fig.show()
+```
+
+## A case of quality over quantity?
+
+Alongside the development of social housing units within large mixed residential developments, a picture is starting to form of small scale building of exclusively social housing, on small plots of infill land. Handily, some of the London councils (like [Haringey](https://www.google.com/maps/d/viewer?mid=1v75dBKf3gccGJQVo7CgMtxusHd5fp6XO&ll=51.584364207632206%2C-0.07863463120033276&z=13) and [Greenwich](https://www.royalgreenwich.gov.uk/directory/90/greenwich_builds_-_where_were_building/category/385)) have provided nice interactive maps, with visualisations of some of their recently completed, and upcoming, social housing developments.
+
+Looking at these suggests an emerging theme of very high quality social housing developments. Many of these social housing units include features that ensure both environmental sustainability (heatpumps, solar panels), as well as longevity and utility (accessible designs, and units catering to different groups within the population). I think the icing on the cake is that some are notably aesthetically pleasing, going beyond the slated[^6] 'New London vernacular' which dominates the private market. A few recent award winning social housing projects in London include:
+
+[^6]: [Their words](https://www.theguardian.com/commentisfree/2022/aug/24/new-homes-look-same-london-developers-boris-johnson) not mine.
+
+-   [Chowdhury Walk](https://www.architecture.com/awards-and-competitions-landing-page/awards/riba-regional-awards/riba-london-award-winners/2024/chowdhury-walk?srsltid=AfmBOopi7fW8f03saZpMHQ9w1uP1q7Qk0rLYfHsaQyNccE0uq6IBT2co) in Hackney which won the RIBA National Award 2024, and the Neave Brown Award 2024. Eleven two storey social houses, on a plot which was previously garages and parking.
+
+-   [Tessa Jowell Court](https://www.camdennewjournal.co.uk/article/will-councils-regen-project-win-architectures-biggest-award) in Haringey, which was nominated for the 2023 Stirling Prize. Six social homes, and an adjacent community play centre, developed on the site of a previously under-utilised playground.
+
+-   [Harvey Gardens](https://www.royalgreenwich.gov.uk/directory_record/2111565/harvey_gardens_henry_kenny_drive/category/385/completed) in Greenwich which won the New London Awards 2022. Four homes and six apartments, all social housing, for people over 60 years located on a mid-terrace plot of land.
+
+## But don't we need quantity?
+
+In the homelessness prevention duty, the state recognises a responsibility to provide accommodation for its citizens. That accomodation should be stable, affordable, and of a quality that improves both our physical and mental health. I think, encouragingly, some of the newly built social housing in London is exactly that. However, the quantity of such housing just isn't enough.
+
+Fig. 7 presents the number of social housing units proposed by each London borough in 2024, alongside the number of individuals owed a prevention duty (i.e. those who are homeless or at risk of homelessness) in the final quarter of that year. Only two boroughs --- Southwark and Tower Hamlets --- submitted planning applications for more social housing units than the number of people owed a prevention duty. Notably, eight London councils proposed zero social housing units in 2024.
+
+This absence may reflect incomplete data in the Planning London Datahub, which aggregates information from individual council systems, meaning some recent applications may not yet have been captured. However, it's important to note that this analysis focuses solely on proposed units. The number that actually gets built is typically much lower. Some applications will not be approved, and even among those that are, developers often negotiate down the number of social housing units during the planning process. Finally, only a portion of approved developments are ultimately constructed.
+
+In reality, therefore, the number of social housing units actually delivered is likely to be significantly lower than the figures shown here—even after considering the possibility of missing data.
+
+```{python}
+import plotly.io as pio
+
+# Load the saved Plotly figure from JSON
+fig = pio.read_json("council_proposed_vs_prevention_stacked_bar.json")
+
+# Display it inline, fully responsive
+fig.show()
+```
+
+What Fig. 7 drives home is that the number of proposed social housing units falls far short of meeting the needs of those currently homeless or in temporary accommodation --- let alone addressing the needs of households living in substandard social or private housing.
+
+I conclude, then, with an open question: what is preventing councils from proposing the high-quality social housing needed to tackle this crisis at the necessary scale? Is the main obstacle a lack of funding, limited land availability, or something else entirely?
+
+<!-- The government has recognised a need for housing, in addition to the central government target of 81,000 residential untis per year in London I mentioned earlier, the London Plan 2021 developed by the GLA set a *slightly* more modest goal of 66,000 residential units per year in the capital. Of these they stipulated that 50% of these should be 'affordable', of which a fraction would be social housing.  -->
+
+## What more can we learn from the data?
+
+Here I've presented some descriptive data on an issue I believe lies at the heart of the UK’s housing crisis. As part of my postdoctoral research, I'm working to better understand these datasets. In the coming months, I’ll be exploring how machine learning techniques — particularly natural language processing — can help extract more detailed insights from planning applications. The aim is to shed light on what is being proposed and built in London, how this aligns with the planning system, and, importantly, how it resonates with the needs of the local community.
+
+------------------------------------------------------------------------
+
+All the code to recreate the graphs can be found here: <https://github.com/Bea-Taylor/london_council_housing>.
+
+All the data mentioned is open source, and can be found linked in the code.
+
+------------------------------------------------------------------------
+
+Thanks to Adam Dennett for his great feedback and help with the data analysis. Thanks to Matt Whearty for his insightful thoughts and fantastic spell-checking.
+
+------------------------------------------------------------------------
