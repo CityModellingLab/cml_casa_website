@@ -1,10 +1,10 @@
 ---
 title: "Esra Suel"
-image: arbre.jpg
+image: esra.jpg
 toc: false
 about: 
   template: trestles
-  image: arbre.jpg
+  image: esra.jpg
   links:
     - icon: star
       text: Website
@@ -23,10 +23,8 @@ about:
     #   href: https://www.ucl.ac.uk/bartlett/casa
 ---
 
-Headline fact
+Esra's new research group at the Department of Geography Zurich will focus on computational methods to study urban systems, integrating traditional and big data sources. 
 
-### Education
+### Education & Experience
 
-### Experience
-
-## Fact File
+Esra holds a PhD in Transport and Urban Systems from Imperial College London and has held research positions at Imperial College London and ETH Zurich. In 2022, she joined the Bartlett Centre for Advanced Spatial Analysis (CASA) at University College London, where she was appointed Associate Professor of City Modelling in 2024. Her most recent research is driven by questions related to transport and energy transitions to net-zero, urban change, and their links to socio-economic and health inequalities. 
