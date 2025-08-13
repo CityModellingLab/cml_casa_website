@@ -4,7 +4,7 @@
     "href": "about/about.html",
     "title": "Our Mission",
     "section": "",
-    "text": "Our vision is that data driven insights are readily available to decision makers in the city realm who are facing existential challenges and problems relating to, in particular, climate change and social inequality. In 5 years these practitioners will be able to assess and appraise a wide range of possible interventions, getting insights on the benefits/disbenefits of a given intervention as they go. The tooling and analysis informs and shapes their decision making in a way that leverages the inputs of a wide set of stakeholders and permits truly participatory decision making in shared urban spaces.. We want to use these methods and data to break down the silos in policy making, formally recognising the interconnected nature of systems in decision making.\nOur vision consists of two related but distinct missions:\n\nCreating sustainable and equitable shared urban environments - we propose jointly exploring future needs through the lens of the outcomes we wish to achieve (e.g. increased public transport usage, reduced carbon emissions from transit activities, better affordable housing provision), enabling more sustainable and equitable shared economies. This requires codifying and defining meaningful metrics beyond, for example, traditional transportation value definitions such as agglomeration benefits or journey time savings. This is viewing larger urban changes through the lens of a wider set of outcomes. \nLeveraging the power of human-centric modelling - we suggest we do this by continuing to explore the use of bottom up complex modelling approaches such as agent and activity based methodologies, leveraging cloud computing and advances in synthetic populations to explore how urban-scale patterns and processes emerge from aggregated individual behaviours. This is key and is putting the individual at the heart of what we do. \n\nThe purpose of the CASA Arup City Modelling Lab is to foster innovation between theory and practice, projects and policies. We take some of the most pressing and complex challenges from city decision makers and co-develop methods, data and tooling that better enable city decision makers to make the changes required to tackle pressing global challenges such as social inequality and climate change. \nArup is a mission orientated organisation who deliver insights and solutions for clients making big decisions in urban environments. UCL brings methodological innovation, long run and deep dive research into substantive problem areas leading to the development and refinement of theory facilitated by iterative  testing,  appraisal and multi-stakeholder interaction. \nThe joint CASA Arup City Modelling Lab exists to bridge the gap between practice and theory, and projects and policies. There is cutting edge theory (and data) that can enable policy makers to better deliver projects, but often the theory is immature, limited in transferability and has no tooling for practical implementation. There’s a fragmentation and diversity of prioritisation within urban policy making coupled with challenges around resource availability that means that projects delivered for one city government and that benefit that city, frequently do not find implementation elsewhere. Our collaboration here hopes to facilitate better sharing of the best consultancy and academic practice outside of their normal spheres of operation."
+    "text": "The City Modelling Lab is a collaboration between UCL, Arup and the University of Zürich.\nThe purpose of the CASA Arup City Modelling Lab is to foster innovation between theory and practice, projects and policies. We take some of the most pressing and complex challenges from city decision makers and co-develop methods, data and tooling that better enable city decision makers to make the changes required to tackle pressing global challenges such as social inequality and climate change. \nArup is a mission orientated organisation who deliver insights and solutions for clients making big decisions in urban environments. UCL brings methodological innovation, long run and deep dive research into substantive problem areas leading to the development and refinement of theory facilitated by iterative  testing,  appraisal and multi-stakeholder interaction. \nThe joint CASA Arup City Modelling Lab exists to bridge the gap between practice and theory, and projects and policies. There is cutting edge theory (and data) that can enable policy makers to better deliver projects, but often the theory is immature, limited in transferability and has no tooling for practical implementation. There’s a fragmentation and diversity of prioritisation within urban policy making coupled with challenges around resource availability that means that projects delivered for one city government and that benefit that city, frequently do not find implementation elsewhere. Our collaboration here hopes to facilitate better sharing of the best consultancy and academic practice outside of their normal spheres of operation."
   },
   {
     "objectID": "about/about.html#our-approach",
@@ -165,7 +165,7 @@
     "href": "projects/index.html",
     "title": "Some things we’re researching",
     "section": "",
-    "text": "Artificial Intelligence for Collective Intelligence (AI4CI) - Smart Cities\n\n\nTo address society’s most pressing challenges we need new kinds of Collective Intelligence.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Department for Transport - National Trip End Model Synthetic Population\n\n\nA synthetic population for the Department for Transport.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nArtificial Intelligence for Collective Intelligence (AI4CI) - Smart Cities\n\n\nTo address society’s most pressing challenges we need new kinds of Collective Intelligence.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/proj/proj1/index.html",
@@ -192,8 +192,8 @@
     "objectID": "about/about.html#the-vision",
     "href": "about/about.html#the-vision",
     "title": "Our Mission",
-    "section": "",
-    "text": "Our vision is that data driven insights are readily available to decision makers in the city realm who are facing existential challenges and problems relating to, in particular, climate change and social inequality. In 5 years these practitioners will be able to assess and appraise a wide range of possible interventions, getting insights on the benefits/disbenefits of a given intervention as they go. The tooling and analysis informs and shapes their decision making in a way that leverages the inputs of a wide set of stakeholders and permits truly participatory decision making in shared urban spaces.. We want to use these methods and data to break down the silos in policy making, formally recognising the interconnected nature of systems in decision making.\nOur vision consists of two related but distinct missions:\n\nCreating sustainable and equitable shared urban environments - we propose jointly exploring future needs through the lens of the outcomes we wish to achieve (e.g. increased public transport usage, reduced carbon emissions from transit activities, better affordable housing provision), enabling more sustainable and equitable shared economies. This requires codifying and defining meaningful metrics beyond, for example, traditional transportation value definitions such as agglomeration benefits or journey time savings. This is viewing larger urban changes through the lens of a wider set of outcomes. \nLeveraging the power of human-centric modelling - we suggest we do this by continuing to explore the use of bottom up complex modelling approaches such as agent and activity based methodologies, leveraging cloud computing and advances in synthetic populations to explore how urban-scale patterns and processes emerge from aggregated individual behaviours. This is key and is putting the individual at the heart of what we do. \n\nThe purpose of the CASA Arup City Modelling Lab is to foster innovation between theory and practice, projects and policies. We take some of the most pressing and complex challenges from city decision makers and co-develop methods, data and tooling that better enable city decision makers to make the changes required to tackle pressing global challenges such as social inequality and climate change. \nArup is a mission orientated organisation who deliver insights and solutions for clients making big decisions in urban environments. UCL brings methodological innovation, long run and deep dive research into substantive problem areas leading to the development and refinement of theory facilitated by iterative  testing,  appraisal and multi-stakeholder interaction. \nThe joint CASA Arup City Modelling Lab exists to bridge the gap between practice and theory, and projects and policies. There is cutting edge theory (and data) that can enable policy makers to better deliver projects, but often the theory is immature, limited in transferability and has no tooling for practical implementation. There’s a fragmentation and diversity of prioritisation within urban policy making coupled with challenges around resource availability that means that projects delivered for one city government and that benefit that city, frequently do not find implementation elsewhere. Our collaboration here hopes to facilitate better sharing of the best consultancy and academic practice outside of their normal spheres of operation."
+    "section": "The vision",
+    "text": "The vision\nOur vision is that data driven insights are readily available to decision makers in the city realm who are facing existential challenges and problems relating to, in particular, climate change and social inequality. In 5 years these practitioners will be able to assess and appraise a wide range of possible interventions, getting insights on the benefits/disbenefits of a given intervention as they go. The tooling and analysis informs and shapes their decision making in a way that leverages the inputs of a wide set of stakeholders and permits truly participatory decision making in shared urban spaces.. We want to use these methods and data to break down the silos in policy making, formally recognising the interconnected nature of systems in decision making.\nOur vision consists of two related but distinct missions:\n\nCreating sustainable and equitable shared urban environments - we propose jointly exploring future needs through the lens of the outcomes we wish to achieve (e.g. increased public transport usage, reduced carbon emissions from transit activities, better affordable housing provision), enabling more sustainable and equitable shared economies. This requires codifying and defining meaningful metrics beyond, for example, traditional transportation value definitions such as agglomeration benefits or journey time savings. This is viewing larger urban changes through the lens of a wider set of outcomes. \nLeveraging the power of human-centric modelling - we suggest we do this by continuing to explore the use of bottom up complex modelling approaches such as agent and activity based methodologies, leveraging cloud computing and advances in synthetic populations to explore how urban-scale patterns and processes emerge from aggregated individual behaviours. This is key and is putting the individual at the heart of what we do."
   },
   {
     "objectID": "blog/posts/my_third_post/index.html",
@@ -326,7 +326,7 @@
     "href": "people/profiles/gerry/gerry.html",
     "title": "Gerry Casey",
     "section": "",
-    "text": "Headline fact"
+    "text": "I lead the Arup City Modelling Lab team, and helped found the CASA Arup City Modelling Lab at UCL."
   },
   {
     "objectID": "people/profiles/gerry/gerry.html#education",
@@ -368,7 +368,7 @@
     "href": "people/profiles/tom/tom.html",
     "title": "Tom Murat",
     "section": "",
-    "text": "Headline fact"
+    "text": "Having completed his undergraduate, PGCE and MSc degrees at UCL, Tom is aiming to complete the set with a PhD at CASA. He is currently working on using Agent Based Models to develop effective bus policies. When he is not lost in MatSIM, Tom is usually found dragging reluctant teenagers through their GCSEs and A Levels."
   },
   {
     "objectID": "people/profiles/tom/tom.html#education",
@@ -389,7 +389,7 @@
     "href": "people/profiles/esra/esra.html",
     "title": "Esra Suel",
     "section": "",
-    "text": "Headline fact"
+    "text": "Esra’s new research group at the Department of Geography Zurich will focus on computational methods to study urban systems, integrating traditional and big data sources.\n\nEducation & Experience\nEsra holds a PhD in Transport and Urban Systems from Imperial College London and has held research positions at Imperial College London and ETH Zurich. In 2022, she joined the Bartlett Centre for Advanced Spatial Analysis (CASA) at University College London, where she was appointed Associate Professor of City Modelling in 2024. Her most recent research is driven by questions related to transport and energy transitions to net-zero, urban change, and their links to socio-economic and health inequalities."
   },
   {
     "objectID": "people/profiles/esra/esra.html#education",
@@ -487,14 +487,14 @@
     "href": "people/profiles/gerry/gerry.html#fact-file",
     "title": "Gerry Casey",
     "section": "Fact File",
-    "text": "Fact File"
+    "text": "Fact File\nI enjoy running and cycling (before it was cool)."
   },
   {
     "objectID": "people/profiles/tom/tom.html#fact-file",
     "href": "people/profiles/tom/tom.html#fact-file",
     "title": "Tom Murat",
     "section": "Fact File",
-    "text": "Fact File"
+    "text": "Fact File\n                                 |       |\n|————————————|——-| | Good Listener | 70 | | Personal Hygiene | 80 | | Advanced Spatial Analysis Quotient | 60 | | Shamelessness | 10 | | Huggability | 50. | | Coding Chops | 75 |"
   },
   {
     "objectID": "people/profiles/bea/bea.html#fact-file",
@@ -579,5 +579,26 @@
     "title": "London’s permanent accommodation crisis",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nIf you want to know more about Heygate Estate, Loreeta Lees has written some insightful analysis of the forced social cleansing resulting from it’s redevelopment — see here.↩︎\nWhile Robin Hood Gardens was criticised for reproducing poor living conditions, it was also celebrated by others for its pioneering Brutalist design. This highlights two interesting aspects of Brutalist council housing in London. First, there is a common tendency (of which I am guilty) to romanticise mid-20th-century council housing, both for its striking aesthetic and the ideals of the welfare state that shaped its creation. However, in practice, some of these designs were more ambitious in concept than comfortable in reality. Second, this romanticisation —– seen in the ‘beautiful Brutalism’ trend —– has led to certain former council estates becoming highly desirable among middle-class creatives. Iconic examples like Trellick Tower have commodified the architecture of postwar social housing, with some of these once-public housing blocks now entirely in private ownership, undermining the original vision of equitable state-owned homes. There’s an interesting critique of this ‘beautiful Brutalism’ trend here.↩︎\nThere’s a detailed account of the class segregation on a mixed development in Nine Elms here.↩︎\nI use quotation marks here not just because I’m a cynic, but also because these ‘affordable’ prices are calculated with regard to the private housing sector which we know is in crisis, they are NOT calculated in terms of local wages.↩︎\nWhich has led to the GLA recently announcing changing development rights regarding London’s green belt.↩︎\nOne such slating.↩︎"
+  },
+  {
+    "objectID": "readme.html",
+    "href": "readme.html",
+    "title": "CASA / Arup City Modelling Lab",
+    "section": "",
+    "text": "Installation\nThis uses Quarto.\nOn a Mac, you can install Quarto:\nbrew install quarto\n\n\nTesting changes\nquarto preview\nQuarto will build the various quarto mark down files and spin up a local server.\n(base) ➜  cml_casa_website git:(master) quarto preview\nPreparing to preview\n[ 1/15] projects/proj/proj1/AI4CI_overview.qmd\n[ 2/15] projects/index.qmd\n[ 3/15] index.qmd\n[ 4/15] presentations/old_pres/pres1/presentation1.qmd\n[ 5/15] presentations/index.qmd\n[ 6/15] presentations/pres/AUM_pres/AUM_presentation.qmd\n[ 7/15] people/index.qmd\n[ 8/15] people/profiles/tom/tom.qmd\n[ 9/15] people/profiles/clara/clara.qmd\n[10/15] people/profiles/claude/claude.qmd\n[11/15] people/profiles/esra/esra.qmd\n[12/15] people/profiles/bea/bea.qmd\n[13/15] people/profiles/gerry/gerry.qmd\n[14/15] people/profiles/maria/maria.qmd\n[15/15] people/profiles/adam/adam.qmd\n\nWatching files for changes\nBrowse at http://localhost:6831/\nGET: /\n\n\nDeployment\nGitHub is configured to take the latest changes from Master, and deploy them on citymodellinglab.uk"
+  },
+  {
+    "objectID": "projects/proj/proj2/DfT_ntem.html#aims-and-objectives",
+    "href": "projects/proj/proj2/DfT_ntem.html#aims-and-objectives",
+    "title": "Department for Transport - National Trip End Model Synthetic Population",
+    "section": "Aims and Objectives",
+    "text": "Aims and Objectives\nThis work is aimed at building a synthetic population for Great Britain.\nIt is part of an update to the National Trip End Model, that seeks to replace the components ‘Scenario Generator’, ‘NATCOP’ and ‘Licence Cohort Model’ with new forecasting software that generates a synthetic population that can be published as well as continuing to provide the inputs to the existing CTripEnd modelling software.\nThe CASA City Modelling Lab is part of the peer review and advisor panel, working with the Arup City Modelling Lab team who are delivering the Python software."
+  },
+  {
+    "objectID": "about/about.html#the-collaboration",
+    "href": "about/about.html#the-collaboration",
+    "title": "Our Mission",
+    "section": "",
+    "text": "The City Modelling Lab is a collaboration between UCL, Arup and the University of Zürich.\nThe purpose of the CASA Arup City Modelling Lab is to foster innovation between theory and practice, projects and policies. We take some of the most pressing and complex challenges from city decision makers and co-develop methods, data and tooling that better enable city decision makers to make the changes required to tackle pressing global challenges such as social inequality and climate change. \nArup is a mission orientated organisation who deliver insights and solutions for clients making big decisions in urban environments. UCL brings methodological innovation, long run and deep dive research into substantive problem areas leading to the development and refinement of theory facilitated by iterative  testing,  appraisal and multi-stakeholder interaction. \nThe joint CASA Arup City Modelling Lab exists to bridge the gap between practice and theory, and projects and policies. There is cutting edge theory (and data) that can enable policy makers to better deliver projects, but often the theory is immature, limited in transferability and has no tooling for practical implementation. There’s a fragmentation and diversity of prioritisation within urban policy making coupled with challenges around resource availability that means that projects delivered for one city government and that benefit that city, frequently do not find implementation elsewhere. Our collaboration here hopes to facilitate better sharing of the best consultancy and academic practice outside of their normal spheres of operation."
   }
 ]
