@@ -1,0 +1,37 @@
+---
+title: "Roei Yosifof"
+image: roei.jpeg
+toc: false
+about: 
+  template: trestles
+  image: roei.jpeg
+  links:
+    #- icon: star
+    #  text: Website
+    #  href: https://www.ucl.ac.uk/bartlett/casa
+    #- icon: bank
+    #  text: UCL profile
+    #  href: https://www.ucl.ac.uk/bartlett/casa
+    #- icon: github
+    #  text: GitHub
+    #  href: https://www.ucl.ac.uk/bartlett/casa
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/roei-yosifof-6a1471178/
+    - icon: google
+      text: Scholar
+      href: https://scholar.google.com/citations?hl=en&user=nIlAvv8AAAAJ
+---
+
+Roei joined CASA as a first year PhD student in 2025 after previously working as an architect in urban design projects and as part time researcher. He is interested in macro scale urban and regional modeling, machine learning, and basketball.
+
+## Fact File
+
+|                                    |                        |
+|------------------------------------|------------------------|
+| Good Listener                      | 80                     |
+| Personal Hygeine                   | 90                     |
+| Advanced Spatial Analysis Quotient | 12                     |
+| Shamelessness                      | 10                     |
+| Huggability                        | depends on the weather |
+| Coding Chops                       | 15                     |
